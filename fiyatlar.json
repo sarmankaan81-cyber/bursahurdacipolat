@@ -1,0 +1,29 @@
+{
+  "_aciklama": "Fiyatı değiştirmek için 'fiyat' ve 'guncelleme' alanlarını düzenleyin. Yayındaki sitede bu dosya /fiyatlar.json olarak durur; orada düzenlemek de sayfayı günceller.",
+  "guncelleme": "2026-10-16",
+  "birim": "kg",
+  "para": "TL",
+  "not": "Fiyatlar hurdanın cinsine, temizliğine ve miktarına göre değişebilir. Kesin fiyat fotoğraf ya da yerinde görüldükten sonra belirlenir.",
+  "kalemler": [
+    {
+      "key": "demir",
+      "ad": "Demir hurdası",
+      "fiyat": 15
+    },
+    {
+      "key": "bakir",
+      "ad": "Bakır hurdası",
+      "fiyat": 15
+    },
+    {
+      "key": "aluminyum",
+      "ad": "Alüminyum hurdası",
+      "fiyat": 15
+    },
+    {
+      "key": "beyaz-esya",
+      "ad": "Beyaz eşya hurdası",
+      "fiyat": 15
+    }
+  ]
+}
