@@ -368,7 +368,7 @@ a.scrap__tile:hover .ic--bg{transform:rotate(-8deg) scale(1.06);color:color-mix(
   .scrap--many .scrap__tile em{font-size:.85rem}
 }
 /* koyu bölümlerde content-visibility kontrast ölçümünü yanıltıyor; görünür tut */
-#bolgeler,#sss,.footer{content-visibility:visible}
+#bolgeler,#sss,#iletisim,.footer{content-visibility:visible}
 .form .form__title{color:#fff;font-size:1.35rem;margin:0 0 .3em}
 .svc__areas a,.form small a,.prose p a{text-decoration:underline}
 
