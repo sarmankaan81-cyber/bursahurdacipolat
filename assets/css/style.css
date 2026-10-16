@@ -646,3 +646,9 @@ a.scrap__tile:hover .ic--bg{transform:rotate(-8deg) scale(1.06);color:color-mix(
 .l-signal .nav>a~.nav__drop .nav__menu{left:auto;right:-18px}
 .l-signal .header__call{white-space:nowrap}
 @media (max-width:1180px) and (min-width:881px){.l-signal .nav{gap:14px}.l-signal .nav a{font-size:.9rem}.l-signal .header .brand__text small{display:none}.l-signal .header__call .txt{display:none}.l-signal .header__call{padding:12px}}
+/* logo: koyu başlıkta beyaz rozet (logodaki koyu yeşil yazı okunsun) */
+.l-signal .header .brand picture{display:block;background:#fff;border-radius:4px;padding:5px 10px;box-shadow:0 0 0 2px var(--accent)}
+.l-signal .header .brand__logo{height:44px;width:auto}
+.l-signal .brand__badge{border-radius:6px;padding:10px 14px}
+.l-signal .brand__logo--foot{height:50px;width:auto}
+@media (max-width:600px){.l-signal .header .brand__logo{height:36px}.l-signal .header .brand picture{padding:4px 8px}}
