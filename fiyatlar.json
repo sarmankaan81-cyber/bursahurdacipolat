@@ -240,6 +240,87 @@
           "fiyat": 15
         }
       ]
+    },
+    {
+      "key": "cinko",
+      "ad": "Çinko hurdası",
+      "fiyat": 15,
+      "alt": [
+        {
+          "key": "oluk",
+          "ad": "Çinko oluk ve dere",
+          "fiyat": 15
+        },
+        {
+          "key": "levha",
+          "ad": "Çinko levha ve çatı kaplaması",
+          "fiyat": 15
+        },
+        {
+          "key": "dokum",
+          "ad": "Çinko döküm (zamak) parçalar",
+          "fiyat": 15
+        },
+        {
+          "key": "karisik",
+          "ad": "Karışık çinko",
+          "fiyat": 15
+        }
+      ]
+    },
+    {
+      "key": "kursun",
+      "ad": "Kurşun hurdası",
+      "fiyat": 15,
+      "alt": [
+        {
+          "key": "levha",
+          "ad": "Kurşun levha ve boru",
+          "fiyat": 15
+        },
+        {
+          "key": "agirlik",
+          "ad": "Balans ve ağırlık kurşunu",
+          "fiyat": 15
+        },
+        {
+          "key": "kablo",
+          "ad": "Kurşun kılıflı kablo kılıfı",
+          "fiyat": 15
+        },
+        {
+          "key": "karisik",
+          "ad": "Karışık kurşun",
+          "fiyat": 15
+        }
+      ]
+    },
+    {
+      "key": "dokum",
+      "ad": "Döküm hurdası",
+      "fiyat": 15,
+      "alt": [
+        {
+          "key": "radyator",
+          "ad": "Döküm radyatör (dilimli petek)",
+          "fiyat": 15
+        },
+        {
+          "key": "makine",
+          "ad": "Makine gövdesi ve tezgah ayağı",
+          "fiyat": 15
+        },
+        {
+          "key": "soba",
+          "ad": "Döküm soba ve kazan",
+          "fiyat": 15
+        },
+        {
+          "key": "kapak",
+          "ad": "Özel mülk döküm kapak ve ızgaralar",
+          "fiyat": 15
+        }
+      ]
     }
   ]
 }
