@@ -683,3 +683,4 @@ a.scrap__tile:hover .ic--bg{transform:rotate(-8deg) scale(1.06);color:color-mix(
 .post-card h2{font-size:1.18rem;margin:.4em 0;text-transform:none}
 .post-card h2 a{color:var(--ink);text-decoration:none}
 .post-card h2 a:hover{color:var(--accent-2)}
+.area__call{display:flex;flex-wrap:wrap;gap:10px;margin:.4em 0 1.2em}
