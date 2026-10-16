@@ -1,6 +1,6 @@
 # Hurdacı Polat
 
-> Hurdacı Polat (Bursa Hurdacı Polat), Bursa Yıldırım Kazım Karabekir Mahallesi'nde metal hurda alımı yapan işletmedir. Demir, bakır, alüminyum ve beyaz eşya hurdası alır; Bursa'nın 17 ilçesiyle telefon ve WhatsApp üzerinden görüşür. Güncel kilogram fiyatları sitedeki fiyat listesinde tarihleriyle yayımlanır; kesin değer hurdanın cinsine, temizliğine ve miktarına göre değişebilir.
+> Hurdacı Polat (Bursa Hurdacı Polat), Bursa Yıldırım Kazım Karabekir Mahallesi'nde metal hurda alımı yapan işletmedir. Demir, bakır, alüminyum, beyaz eşya, sarı (pirinç), krom (paslanmaz), kablo ve akü hurdası alır; Bursa'nın 17 ilçesiyle telefon ve WhatsApp üzerinden görüşür. Güncel kilogram fiyatları sitedeki fiyat listesinde tarihleriyle yayımlanır; kesin değer hurdanın cinsine, temizliğine ve miktarına göre değişebilir.
 
 - Telefon / WhatsApp: 0535 055 16 51 (+905350551651)
 - Adres: Kazım Karabekir Mah. 4. Kale Sk. No:14, Yıldırım / Bursa (40.20104, 29.10141)
@@ -33,7 +33,15 @@
 - [Büyükorhan hurdacı](https://bursahurdacipolat.com.tr/bursa-buyukorhan-hurdaci.html): Samanlık ve bodrumlarda biriken karışık metali türlerine ayırarak Büyükorhan'da değerlendirme.
 - [Hakkımızda](https://bursahurdacipolat.com.tr/hakkimizda.html): Yıldırım Kazım Karabekir Mahallesi'ndeki adresimizden demir, bakır, alüminyum ve beyaz eşya hurdası için Bursa'nın 17 ilçesiyle görüşüyoruz.
 - [İletişim](https://bursahurdacipolat.com.tr/iletisim.html)
-- [Fiyat listesi](https://bursahurdacipolat.com.tr/fiyat-listesi.html): Demir hurdası 15 TL/kg, Bakır hurdası 15 TL/kg, Alüminyum hurdası 15 TL/kg, Beyaz eşya hurdası 15 TL/kg (güncelleme 16 Ekim 2026). Fiyatlar hurdanın cinsine, temizliğine ve miktarına göre değişebilir. Kesin fiyat fotoğraf ya da yerinde görüldükten sonra belirlenir.
+- [Fiyat listesi](https://bursahurdacipolat.com.tr/fiyat-listesi.html): Demir hurdası 15 TL/kg, Bakır hurdası 15 TL/kg, Alüminyum hurdası 15 TL/kg, Beyaz eşya hurdası 15 TL/kg, Sarı (pirinç) hurdası 15 TL/kg, Krom (paslanmaz) hurdası 15 TL/kg, Kablo hurdası 15 TL/kg, Akü hurdası 15 TL/kg (güncelleme 16 Ekim 2026). Fiyatlar hurdanın cinsine, temizliğine ve miktarına göre değişebilir. Kesin fiyat fotoğraf ya da yerinde görüldükten sonra belirlenir.
+- [Demir hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html): Ağır demir, sac, döküm, inşaat demiri ve talaş için güncel kilogram fiyatı, sınıf skalası ve fiyatı etkileyen unsurlar.
+- [Bakır hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html): Soyulmuş parlak bakır, boru, sargı ve karışık bakır için güncel kilogram fiyatı, sınıf farkları ve hazırlık önerileri.
+- [Alüminyum hurda fiyatı](https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html): Profil, levha, döküm, jant, mutfak alüminyumu, kutu ve talaş için güncel kilogram fiyatı ve sınıf skalası.
+- [Beyaz eşya hurda fiyatı](https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html): Buzdolabı, çamaşır makinesi, fırın, kombi ve klima hurdası için güncel kilogram fiyatı ve cihaz bazında skala.
+- [Sarı (pirinç) hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html): Musluk, batarya, vana, rakor ve pirinç talaşı için güncel kilogram fiyatı; sarıyı bakır ve bronzdan ayırma yolları.
+- [Krom (paslanmaz) hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html): Paslanmaz levha, mutfak ekipmanı, boru ve talaş için güncel kilogram fiyatı; kromu demir ve alüminyumdan ayırma.
+- [Kablo hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html): Enerji kablosu, ev tesisat kablosu, data kabloları ve alüminyum iletkenli kablo için güncel kilogram fiyatı ve skala.
+- [Akü hurda fiyatları](https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html): Otomobil, kamyon ve UPS aküleri için güncel kilogram fiyatı; atık akünün güvenli saklanması ve taşınması.
 
 - [KVKK Aydınlatma Metni](https://bursahurdacipolat.com.tr/kvkk.html)
 - [Gizlilik Politikası](https://bursahurdacipolat.com.tr/gizlilik-politikasi.html)

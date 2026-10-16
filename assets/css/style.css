@@ -635,3 +635,14 @@ a.scrap__tile:hover .ic--bg{transform:rotate(-8deg) scale(1.06);color:color-mix(
 .l-signal .gallery__item::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 40%,rgba(17,18,19,.75));pointer-events:none}
 .l-signal .gallery__item figcaption{z-index:1;background:none}
 @media (max-width:600px){.l-signal .prices th,.l-signal .prices td{padding:12px 10px}.l-signal .scrap__item:not(.scrap__tile){aspect-ratio:auto;min-height:190px}}
+/* makale vurgusu (==kelime==): başlık fontu + kalın renkli alt çizgi */
+.l-signal mark.kw{background:none;color:var(--ink);font-family:var(--head);font-weight:800;letter-spacing:-.005em;text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:.2em;text-underline-offset:.22em;text-decoration-skip-ink:none;padding:0 .04em}
+.l-signal .answer mark.kw{text-decoration-color:var(--dark)}
+/* fiyat skalası */
+.l-signal .prices--scale{margin-top:.4em}
+.l-signal .prices th a{color:inherit;text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:2px;text-underline-offset:3px}
+.l-signal .prices th a:hover{color:var(--accent-2)}
+/* sağdaki açılır menü (Hurda Fiyatları) taşmasın; dar masaüstünde başlık sıkışmasın */
+.l-signal .nav>a~.nav__drop .nav__menu{left:auto;right:-18px}
+.l-signal .header__call{white-space:nowrap}
+@media (max-width:1180px) and (min-width:881px){.l-signal .nav{gap:14px}.l-signal .nav a{font-size:.9rem}.l-signal .header .brand__text small{display:none}.l-signal .header__call .txt{display:none}.l-signal .header__call{padding:12px}}
