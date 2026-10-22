@@ -1,6 +1,6 @@
 {
   "_aciklama": "Fiyatı değiştirmek için ilgili 'fiyat' alanlarını (ana satır ve 'alt' sınıflar) ve 'guncelleme' tarihini düzenleyin. Yayındaki sitede bu dosya /fiyatlar.json olarak durur; orada düzenlemek de sayfaları günceller.",
-  "guncelleme": "2026-10-16",
+  "guncelleme": "2026-10-22",
   "birim": "kg",
   "para": "TL",
   "not": "Fiyatlar hurdanın cinsine, temizliğine ve miktarına göre değişebilir. Kesin fiyat fotoğraf ya da yerinde görüldükten sonra belirlenir.",
@@ -8,319 +8,356 @@
     {
       "key": "demir",
       "ad": "Demir hurdası",
-      "fiyat": 15,
+      "fiyat": 17,
       "alt": [
         {
           "key": "agir",
           "ad": "Ağır demir (kalın profil, kiriş)",
-          "fiyat": 15
+          "fiyat": 17
         },
         {
           "key": "hafif",
           "ad": "Hafif demir (ince sac)",
-          "fiyat": 15
+          "fiyat": 17
         },
         {
           "key": "dokum",
           "ad": "Döküm demir",
-          "fiyat": 15
+          "fiyat": 18
         },
         {
           "key": "insaat",
           "ad": "İnşaat demiri",
-          "fiyat": 15
+          "fiyat": 17
         },
         {
           "key": "talas",
           "ad": "Demir talaşı ve kesinti",
-          "fiyat": 15
+          "fiyat": 17
+        },
+        {
+          "key": "dkp",
+          "ad": "DKP hurda",
+          "fiyat": 19
+        },
+        {
+          "key": "bonus",
+          "ad": "Bonus demir",
+          "fiyat": 18
         }
       ]
     },
     {
       "key": "bakir",
       "ad": "Bakır hurdası",
-      "fiyat": 15,
+      "fiyat": 600,
       "alt": [
         {
           "key": "parlak",
-          "ad": "Soyulmuş parlak bakır tel",
-          "fiyat": 15
+          "ad": "Soyma bakır (soyulmuş parlak tel)",
+          "fiyat": 650
         },
         {
-          "key": "kalin",
-          "ad": "Kalın bakır (boru, levha)",
-          "fiyat": 15
-        },
-        {
-          "key": "sargi",
-          "ad": "Sargı bakırı",
-          "fiyat": 15
+          "key": "yanma",
+          "ad": "Yanma bakır",
+          "fiyat": 600
         },
         {
           "key": "karisik",
-          "ad": "Karışık bakır",
-          "fiyat": 15
+          "ad": "Kırkambar (karışık) bakır",
+          "fiyat": 600
         }
-      ]
+      ],
+      "fiyatMax": 650
     },
     {
       "key": "aluminyum",
       "ad": "Alüminyum hurdası",
-      "fiyat": 15,
+      "fiyat": 120,
       "alt": [
         {
           "key": "profil",
           "ad": "Profil (doğrama)",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "levha",
           "ad": "Levha ve sac",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "dokum",
           "ad": "Döküm alüminyum",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "jant",
           "ad": "Alüminyum jant",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "mutfak",
           "ad": "Mutfak alüminyumu",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "kutu",
           "ad": "İçecek kutusu",
-          "fiyat": 15
+          "fiyat": 120
         },
         {
           "key": "talas",
           "ad": "Alüminyum talaşı",
-          "fiyat": 15
+          "fiyat": 120
         }
       ]
     },
     {
       "key": "beyaz-esya",
       "ad": "Beyaz eşya hurdası",
-      "fiyat": 15,
+      "fiyat": 500,
       "alt": [
         {
           "key": "buzdolabi",
           "ad": "Buzdolabı ve derin dondurucu",
-          "fiyat": 15
+          "fiyat": 500
         },
         {
           "key": "camasir",
           "ad": "Çamaşır ve bulaşık makinesi",
-          "fiyat": 15
+          "fiyat": 500
         },
         {
           "key": "firin",
           "ad": "Fırın ve ocak",
-          "fiyat": 15
+          "fiyat": 500
         },
         {
           "key": "kombi",
           "ad": "Kombi ve şofben",
-          "fiyat": 15
+          "fiyat": 500
         },
         {
           "key": "klima",
           "ad": "Klima (iç ve dış ünite)",
-          "fiyat": 15
+          "fiyat": 500
         }
-      ]
+      ],
+      "birim": "adet"
     },
     {
       "key": "sari",
       "ad": "Sarı (pirinç) hurdası",
-      "fiyat": 15,
+      "fiyat": 330,
       "alt": [
         {
           "key": "musluk",
           "ad": "Musluk ve batarya",
-          "fiyat": 15
+          "fiyat": 330
         },
         {
           "key": "vana",
           "ad": "Vana, rakor ve fitting",
-          "fiyat": 15
+          "fiyat": 330
         },
         {
           "key": "talas",
           "ad": "Pirinç talaşı",
-          "fiyat": 15
+          "fiyat": 330
         },
         {
           "key": "karisik",
           "ad": "Karışık sarı",
-          "fiyat": 15
+          "fiyat": 330
+        },
+        {
+          "key": "kizil",
+          "ad": "Kızıl sarı",
+          "fiyat": 370
         }
-      ]
+      ],
+      "fiyatMax": 370
     },
     {
       "key": "krom",
       "ad": "Krom (paslanmaz) hurdası",
-      "fiyat": 15,
+      "fiyat": 55,
       "alt": [
         {
           "key": "levha",
           "ad": "Paslanmaz levha ve sac",
-          "fiyat": 15
+          "fiyat": 55
         },
         {
           "key": "mutfak",
           "ad": "Mutfak ekipmanı (tezgah, evye)",
-          "fiyat": 15
+          "fiyat": 55
         },
         {
           "key": "boru",
           "ad": "Paslanmaz boru ve profil",
-          "fiyat": 15
+          "fiyat": 55
         },
         {
           "key": "talas",
           "ad": "Paslanmaz talaş",
-          "fiyat": 15
+          "fiyat": 55
         }
       ]
     },
     {
       "key": "kablo",
       "ad": "Kablo hurdası",
-      "fiyat": 15,
+      "fiyat": 200,
       "alt": [
         {
           "key": "enerji",
           "ad": "Kalın enerji kablosu",
-          "fiyat": 15
+          "fiyat": 200,
+          "fiyatMax": 500
         },
         {
           "key": "tesisat",
           "ad": "Ev tesisat kablosu",
-          "fiyat": 15
+          "fiyat": 200,
+          "fiyatMax": 500
         },
         {
           "key": "ince",
           "ad": "İnce sinyal ve data kablosu",
-          "fiyat": 15
+          "fiyat": 200,
+          "fiyatMax": 500
         },
         {
           "key": "al",
           "ad": "Alüminyum iletkenli kablo",
-          "fiyat": 15
+          "fiyat": 200,
+          "fiyatMax": 500
         }
-      ]
+      ],
+      "fiyatMax": 500
     },
     {
       "key": "aku",
       "ad": "Akü hurdası",
-      "fiyat": 15,
+      "fiyat": 35,
       "alt": [
         {
           "key": "oto",
           "ad": "Otomobil aküsü",
-          "fiyat": 15
+          "fiyat": 35
         },
         {
           "key": "ticari",
           "ad": "Kamyon ve iş makinesi aküsü",
-          "fiyat": 15
+          "fiyat": 35
         },
         {
           "key": "ups",
           "ad": "UPS (kesintisiz güç) aküsü",
-          "fiyat": 15
+          "fiyat": 35
         }
       ]
     },
     {
       "key": "cinko",
       "ad": "Çinko hurdası",
-      "fiyat": 15,
+      "fiyat": 130,
       "alt": [
         {
           "key": "oluk",
           "ad": "Çinko oluk ve dere",
-          "fiyat": 15
+          "fiyat": 130
         },
         {
           "key": "levha",
           "ad": "Çinko levha ve çatı kaplaması",
-          "fiyat": 15
+          "fiyat": 130
         },
         {
           "key": "dokum",
           "ad": "Çinko döküm (zamak) parçalar",
-          "fiyat": 15
+          "fiyat": 130
         },
         {
           "key": "karisik",
           "ad": "Karışık çinko",
-          "fiyat": 15
+          "fiyat": 130
         }
       ]
     },
     {
       "key": "kursun",
       "ad": "Kurşun hurdası",
-      "fiyat": 15,
+      "fiyat": 90,
       "alt": [
         {
           "key": "levha",
           "ad": "Kurşun levha ve boru",
-          "fiyat": 15
+          "fiyat": 90
         },
         {
           "key": "agirlik",
           "ad": "Balans ve ağırlık kurşunu",
-          "fiyat": 15
+          "fiyat": 90
         },
         {
           "key": "kablo",
           "ad": "Kurşun kılıflı kablo kılıfı",
-          "fiyat": 15
+          "fiyat": 90
         },
         {
           "key": "karisik",
           "ad": "Karışık kurşun",
-          "fiyat": 15
+          "fiyat": 90
         }
       ]
     },
     {
       "key": "dokum",
       "ad": "Döküm hurdası",
-      "fiyat": 15,
+      "fiyat": 18,
       "alt": [
         {
           "key": "radyator",
           "ad": "Döküm radyatör (dilimli petek)",
-          "fiyat": 15
+          "fiyat": 18
         },
         {
           "key": "makine",
           "ad": "Makine gövdesi ve tezgah ayağı",
-          "fiyat": 15
+          "fiyat": 18
         },
         {
           "key": "soba",
           "ad": "Döküm soba ve kazan",
-          "fiyat": 15
+          "fiyat": 18
         },
         {
           "key": "kapak",
           "ad": "Özel mülk döküm kapak ve ızgaralar",
-          "fiyat": 15
+          "fiyat": 18
         }
       ]
+    },
+    {
+      "key": "nikel",
+      "ad": "Nikel hurdası",
+      "fiyat": 630,
+      "alt": []
+    },
+    {
+      "key": "karbur",
+      "ad": "Karbür (elmas, vidia) hurdası",
+      "fiyat": 3000,
+      "alt": []
+    },
+    {
+      "key": "elektronik-kart",
+      "ad": "Elektronik kart hurdası",
+      "fiyat": 50,
+      "fiyatMax": 200,
+      "alt": []
     }
   ]
 }
