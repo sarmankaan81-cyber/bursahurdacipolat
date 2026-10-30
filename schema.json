@@ -3895,6 +3895,22 @@
     },
     {
      "@type": "Question",
+     "name": "Tartımı görebilir miyim?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Hurdanın her türü ayrı tartılır ve tartım sonucunu sınıf fiyatıyla birlikte görürsünüz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Demirli ve demirsiz hurda arasındaki fark nedir?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Demirli hurda demir ve çelik gibi mıknatıs tutan metallerdir. Demirsiz hurda ise bakır, alüminyum, pirinç, çinko ve kurşun gibi mıknatıs tutmayan metallerdir ve kilogram değerleri daha yüksektir."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "Hangi ilçelerle çalışıyorsunuz?",
      "acceptedAnswer": {
       "@type": "Answer",
