@@ -1,6 +1,6 @@
 {
   "_aciklama": "Fiyatı değiştirmek için ilgili 'fiyat' alanlarını (ana satır ve 'alt' sınıflar) ve 'guncelleme' tarihini düzenleyin. Yayındaki sitede bu dosya /fiyatlar.json olarak durur; orada düzenlemek de sayfaları günceller.",
-  "guncelleme": "2026-10-30",
+  "guncelleme": "2026-10-31",
   "birim": "kg",
   "para": "TL",
   "not": "Fiyatlar hurdanın cinsine, temizliğine ve miktarına göre değişebilir; bu yüzden kesin fiyatı hurdanın fotoğrafını ya da kendisini gördükten sonra belirliyoruz.",

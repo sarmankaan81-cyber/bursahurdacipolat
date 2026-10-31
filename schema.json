@@ -962,7 +962,7 @@
    "name": "Bursa Akü Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html",
    "description": "Otomobil, kamyon ve UPS aküleri için güncel kilogram fiyatı; atık akünün güvenli saklanması ve taşınması.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -1363,7 +1363,7 @@
    "name": "Bursa Alüminyum Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html",
    "description": "Profil, levha, döküm, jant, mutfak alüminyumu, kutu ve talaş için güncel kilogram fiyatı ve sınıf skalası.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -1643,7 +1643,7 @@
    "name": "Bursa Bakır Hurda Fiyatı: 1 Kilo Bakır Kaç TL?",
    "url": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html",
    "description": "Soyulmuş parlak bakır, boru, sargı ve karışık bakır için güncel kilogram fiyatı, sınıf farkları ve hazırlık önerileri.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -1682,7 +1682,7 @@
      "name": "1 kilo bakır kaç TL?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "30 Ekim 2026 itibarıyla Bursa'da 1 kilo bakır hurdası 580–640 TL arasında alınıyor: soyma bakır (soyulmuş parlak tel) 640 TL/kg, yanma bakır 610 TL/kg, kırkambar (karışık) bakır 580 TL/kg. Bakırın sınıfına göre değişir. Soyulmuş parlak bakır, boru, sargı ve karışık bakırın güncel kilogram fiyatları bu sayfadaki skalada, güncelleme tarihiyle yer alır."
+      "text": "31 Ekim 2026 itibarıyla Bursa'da 1 kilo bakır hurdası 580–640 TL arasında alınıyor: soyma bakır (soyulmuş parlak tel) 640 TL/kg, yanma bakır 610 TL/kg, kırkambar (karışık) bakır 580 TL/kg. Bakırın sınıfına göre değişir. Soyulmuş parlak bakır, boru, sargı ve karışık bakırın güncel kilogram fiyatları bu sayfadaki skalada, güncelleme tarihiyle yer alır."
      }
     },
     {
@@ -1931,7 +1931,7 @@
    "name": "Bursa Beyaz Eşya Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html",
    "description": "Buzdolabı, çamaşır makinesi, fırın, kombi ve klima hurdası için güncel adet fiyatı ve cihaz bazında skala.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -2329,7 +2329,7 @@
    "name": "Bursa Çinko Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html",
    "description": "Çinko oluk, levha, zamak döküm ve karışık çinko için güncel kilogram fiyatı ve sınıf skalası.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -2722,7 +2722,7 @@
    "name": "Bursa Demir Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html",
    "description": "Ağır demir, sac, döküm, inşaat demiri ve talaş için güncel kilogram fiyatı, sınıf skalası ve fiyatı etkileyen unsurlar.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -2836,7 +2836,7 @@
    "name": "Bursa Döküm Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html",
    "description": "Dilimli radyatör, makine gövdesi ve döküm soba için güncel kilogram fiyatı; dökümü sacdan ve çelikten ayırma.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -4524,7 +4524,7 @@
    "name": "Bursa Soyulmamış Kablo Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html",
    "description": "Enerji kablosu, ev tesisat kablosu, data kabloları ve alüminyum iletkenli kablo için güncel kilogram fiyatı ve skala.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -5611,7 +5611,7 @@
    "name": "Bursa Krom (Paslanmaz) Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html",
    "description": "Paslanmaz levha, mutfak ekipmanı, boru ve talaş için güncel kilogram fiyatı; kromu demir ve alüminyumdan ayırma.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -5870,7 +5870,7 @@
    "name": "Bursa Kurşun Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html",
    "description": "Kurşun levha ve boru, balans ağırlığı ve kablo kılıfı için güncel kilogram fiyatı; kurşunla güvenli çalışma.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -7047,7 +7047,7 @@
    "name": "Bursa Sarı (Pirinç) Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html",
    "description": "Musluk, batarya, vana, rakor ve pirinç talaşı için güncel kilogram fiyatı; sarıyı bakır ve bronzdan ayırma yolları.",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -8011,7 +8011,7 @@
    "@type": "WebPage",
    "name": "Bursa hurda fiyatları",
    "url": "https://bursahurdacipolat.com.tr/fiyat-listesi.html",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
@@ -8522,7 +8522,7 @@
    "@type": "CollectionPage",
    "name": "Bursa Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/hurda-fiyatlari.html",
-   "dateModified": "2026-10-30",
+   "dateModified": "2026-10-31",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
