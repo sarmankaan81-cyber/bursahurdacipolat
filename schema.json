@@ -3922,8 +3922,8 @@
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-hurda-pazari-nerede.html#makale",
    "@type": "Article",
-   "headline": "Bursa Hurda Pazarı Nerede, Hangi Gün Kuruluyor?",
-   "description": "Bursa Hurda Pazarı nerede ve hangi gün kuruluyor: Panayır'daki yeri, cumartesi–pazar saatleri, açık olup olmadığını nasıl anlarsınız ve 2026'daki değişiklikler.",
+   "headline": "Bursa Hurda Pazarı Nerede, Açık mı? Günleri, Saatleri ve Tarihçesi",
+   "description": "Bursa Hurda Pazarı nerede, bugün açık mı, hangi gün ve saatte kuruluyor: Panayır'daki yeri, Soğanlı'dan bugüne tarihçesi, 2025–2026 taşınmaları ve gitmeden önce ipuçları.",
    "datePublished": "2026-10-21",
    "dateModified": "2026-10-21",
    "inLanguage": "tr-TR",
@@ -3957,7 +3957,7 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Bursa Hurda Pazarı Nerede, Hangi Gün Kuruluyor?",
+     "name": "Bursa Hurda Pazarı Nerede, Açık mı? Günleri, Saatleri ve Tarihçesi",
      "item": "https://bursahurdacipolat.com.tr/bursa-hurda-pazari-nerede.html"
     }
    ]
@@ -3968,10 +3968,26 @@
    "mainEntity": [
     {
      "@type": "Question",
+     "name": "Bursa Hurda Pazarı nerede?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yerel basına göre Osmangazi ilçesi Panayır Mahallesi'ndeki Kurban Pazarı alanında kuruluyor. Kurban Bayramı öncesinde yeri değişebilir ya da bir süre kapanabilir."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "Bursa Hurda Pazarı hangi gün kuruluyor?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Pazar hafta sonları açık. Yerel basına göre kurulum cumartesiyi pazara bağlayan gece başlıyor."
+      "text": "Yalnızca hafta sonu. Kurulum cumartesiyi pazara bağlayan gece, saat 02.00 civarında başlıyor ve pazar gecesine kadar sürüyor."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa Hurda Pazarı şu an açık mı?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "13 Haziran 2026'da Panayır'da yeniden açıldı ve 2 Kasım 2026 itibarıyla kapandığına dair bir haber yok. Gitmeden önce yerel haberleri ve belediye duyurularını kontrol edin."
      }
     },
     {
@@ -3979,7 +3995,23 @@
      "name": "Bursa Hurda Pazarı nereye taşındı?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "2025'te bayram öncesinde Geçit Kurban Pazarı'na geçmişti. 2026'da ise Nisan'da bir süre kapandı ve 13 Haziran 2026'da Osmangazi Panayır Mahallesi'nde yeniden kapılarını açtı."
+      "text": "2025'te bayram öncesinde Geçit Kurban Pazarı'na geçmişti. 2026'da taşınmadı; nisanda bir süre kapandı ve haziranda Panayır'da yeniden kuruldu."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa Hurda Pazarı eskiden nerede kuruluyordu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Uzun yıllar Osmangazi Soğanlı'da kuruldu. 2016'da kentsel dönüşüm nedeniyle önce Yunuseli'ye, ardından Yıldırım Vakıfköy'e taşındı; sonraki yıllarda Panayır'a yerleşti."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa Hurda Pazarı gece açık mı?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Tezgâhlar cumartesi gecesi kurulmaya başladığı için gece saatlerinde de alışveriş yapılıyor. Ancak en kalabalık ve en çeşitli saatler sabahın erken saatleridir."
      }
     },
     {
@@ -3988,6 +4020,14 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Evet. Bursa'da ikisi de aynı hafta sonu pazarı için kullanılan adlardır."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Bursa Hurda Pazarı'nda kart geçiyor mu?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Tezgâhların çoğu küçük esnaftır ve kart kabul etmeyebilir. Yanınızda nakit bulundurmanız önerilir."
      }
     },
     {
@@ -4003,7 +4043,7 @@
      "name": "Pazarın açık olup olmadığını nereden öğrenebilirim?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Bursa'daki yerel haber siteleri ve Osmangazi Belediyesi duyuruları en güncel bilgiyi verir. Özellikle bayram dönemlerinde mutlaka kontrol edin."
+      "text": "Bursa'daki yerel haber siteleri, Osmangazi Belediyesi duyuruları ve harita uygulamalarındaki güncel ziyaretçi yorumları en hızlı bilgiyi verir. Özellikle mart–haziran arasında mutlaka kontrol edin."
      }
     }
    ]
@@ -8043,7 +8083,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-31"
+   "dateModified": "2026-11-02"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/hakkimizda.html#aboutpage",
@@ -9491,6 +9531,22 @@
     },
     {
      "@type": "Question",
+     "name": "Hurdacı ile eskici arasındaki fark nedir?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hurdacı ömrünü tamamlamış metali türüne ve ağırlığına göre alır; eskici ise kullanılabilir ikinci el eşyayı alıp tamir eder ve yeniden satar."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Hurdacı olmak için okul bitirmek gerekir mi?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Zorunlu bir diploma yoktur. Ancak işletme kaydı ve ruhsat gerekir; araç, iş makinesi ve kesme işleri için ayrıca ilgili belge ve eğitimler gerekebilir."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "Hurdacı olmak için hangi belgeler gerekir?",
      "acceptedAnswer": {
       "@type": "Answer",
@@ -10014,7 +10070,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-31"
+   "dateModified": "2026-11-02"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#collectionpage",
@@ -10024,7 +10080,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-29"
+   "dateModified": "2026-11-02"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#itemlist",
@@ -10099,7 +10155,7 @@
     {
      "@type": "ListItem",
      "position": 12,
-     "name": "Bursa Hurda Pazarı Nerede, Hangi Gün Kuruluyor?",
+     "name": "Bursa Hurda Pazarı Nerede, Açık mı? Günleri, Saatleri ve Tarihçesi",
      "url": "https://bursahurdacipolat.com.tr/bursa-hurda-pazari-nerede.html"
     },
     {
