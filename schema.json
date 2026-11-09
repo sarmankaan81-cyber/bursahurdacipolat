@@ -1051,70 +1051,13 @@
       "@type": "Answer",
       "text": "Aküyü kilogram üzerinden değerlendiriyoruz; güncel fiyat bu sayfadaki skalada yer alır. Kasası sağlam, asidi akmamış aküleri hem güvenle taşırsınız hem de biz daha doğru değerlendiririz."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Akü Hurdası Alan Yer",
-   "description": "Akü hurdasını Bursa'da kim alır, teslim süreci nasıl işler ve satmadan önce neler yapmalısınız; özellikle otomobil, forklift ve UPS aküleri için rehber.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Akü Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa akü hurdası nereye satılır?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Hurdacı Polat'a 0539 469 51 16 numarasından ulaşabilirsiniz. Akülerin fotoğrafını, adedini ve türünü gönderin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Akünün asidini boşaltmalı mıyım?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hayır. Asidi boşaltmak tehlikeli ve yasaktır; aküyü olduğu gibi, dik ve kutupları bantlı hâlde verin."
      }
     },
     {
@@ -1163,14 +1106,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Fiyat büyük ölçüde kurşun fiyatına ve döviz kuruna bağlıdır; dolayısıyla piyasayla birlikte değişir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     },
     {
@@ -2418,70 +2353,13 @@
       "@type": "Answer",
       "text": "Çinko levhayı, oluğu ve karışık çinkoyu skalada ayrı satırlarda değerlendiriyoruz. Güncel kilogram fiyatı bu sayfadaki tabloda yer alır; çivi, katran ve harç kalıntısı temizlendikçe değerlendirme iyileşir."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Çinko Hurdası Alan Yer",
-   "description": "Bursa çinko hurdasını kimin aldığını, oluk, zamak ve galvaniz atığını nasıl ayıracağınızı ve satmadan önce neler yapacağınızı anlatıyoruz.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Çinko Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa çinko hurdası nereye satılır?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Hurdacı Polat'a 0539 469 51 16 numarasından ulaşabilirsiniz. Fotoğraf gönderin, türünü ve sınıfını söyleyelim."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Galvanizli sac çinko hurdası mı?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hayır. Galvanizli sac, ince çinko kaplı çeliktir; mıknatısı tutar ve demir grubuna girer."
      }
     },
     {
@@ -2522,14 +2400,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Yıkımdan önce ayrı söktürmenizi öneririz; çünkü enkaza karışan çinko değerini yitirir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     },
     {
@@ -2831,11 +2701,11 @@
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html#sayfa",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#sayfa",
    "@type": "WebPage",
-   "name": "Bursa Döküm Hurda Fiyatları",
-   "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html",
-   "description": "Dilimli radyatör, makine gövdesi ve döküm soba için güncel kilogram fiyatı; dökümü sacdan ve çelikten ayırma.",
+   "name": "Bursa Döküm Hurdası Alan Yer ve Güncel Fiyat",
+   "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html",
+   "description": "Bursa döküm hurdasını kim alır, radyatör, makine gövdesi ve soba için güncel kilogram fiyatı; dökümü tanıma, sökme ve taşıma.",
    "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
@@ -2843,7 +2713,7 @@
    }
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html#breadcrumblist",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
     {
@@ -2861,13 +2731,13 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Bursa Döküm Hurda Fiyatları",
-     "item": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html"
+     "name": "Bursa Döküm Hurdası Alan Yer ve Güncel Fiyat",
+     "item": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html"
     }
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html#faqpage",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#faqpage",
    "@type": "FAQPage",
    "mainEntity": [
     {
@@ -2941,56 +2811,7 @@
       "@type": "Answer",
       "text": "Hayır. Döküm demir mıknatısı güçlü çeker ve ağırdır; döküm alüminyum mıknatıs çekmez ve belirgin biçimde hafiftir. Döküm alüminyumu ise alüminyum fiyat sayfamızdaki satırdan değerlendiriyoruz."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Döküm Hurdası Alan Yer",
-   "description": "Bursa döküm hurdası kim alır, radyatörü, sobayı ve motor bloğunu nasıl hazırlarsınız ve teslim süreci nasıl işler.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Döküm Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa döküm hurdası nereye satılır?",
@@ -3005,14 +2826,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Döküm kırılgandır ve bükülmez; kırık yüzeyi gri ve tanecikli görünür. Çelik ise bükülür ve kolay kırılmaz."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Döküm radyatörün içindeki suyu boşaltmalı mıyım?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Çünkü su ağırlık yapar ve taşırken sızar; radyatörleri boşaltılmış olarak verin."
      }
     },
     {
@@ -3037,22 +2850,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Evet. Cam ve şamot kısımlarını ayırırsanız daha doğru değer alır."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Rögar kapağı alıyor musunuz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hayır. Kamuya ait döküm malzemeleri kesinlikle değerlendirmiyoruz."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     },
     {
@@ -3480,7 +3277,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-gemlik-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-gemlik-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -3815,7 +3612,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-harmancik-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-harmancik-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -3829,7 +3626,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-30"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-hurda-alimi.html#breadcrumblist",
@@ -4056,7 +3853,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-30"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-hurdaci-telefonu.html#breadcrumblist",
@@ -4138,7 +3935,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-03"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html#itemlist",
@@ -4437,7 +4234,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-inegol-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-inegol-hurdaci.html",
-   "dateModified": "2026-11-03",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -4568,18 +4365,6 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-iznik-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-iznik-hurdaci.html",
-   "dateModified": "2026-10-29",
-   "inLanguage": "tr-TR",
-   "about": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html#sayfa",
-   "@type": "WebPage",
-   "name": "Bursa Soyulmamış Kablo Hurda Fiyatı",
-   "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html",
-   "description": "Enerji kablosu, ev tesisat kablosu, data kabloları ve alüminyum iletkenli kablo için güncel kilogram fiyatı ve skala.",
    "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
@@ -4587,7 +4372,19 @@
    }
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html#breadcrumblist",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#sayfa",
+   "@type": "WebPage",
+   "name": "Bursa Kablo Hurdası Alan Yer ve Güncel Fiyat",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html",
+   "description": "Kablo hurdasını Bursa'da kim alır, kablo sınıfları ve güncel kilogram fiyatı; satmadan önce hazırlık, şantiye ve işletmeler için düzenli çalışma.",
+   "dateModified": "2026-11-09",
+   "inLanguage": "tr-TR",
+   "about": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
     {
@@ -4605,13 +4402,13 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Bursa Soyulmamış Kablo Hurda Fiyatı",
-     "item": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html"
+     "name": "Bursa Kablo Hurdası Alan Yer ve Güncel Fiyat",
+     "item": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html"
     }
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html#faqpage",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#faqpage",
    "@type": "FAQPage",
    "mainEntity": [
     {
@@ -4701,70 +4498,13 @@
       "@type": "Answer",
       "text": "NYA, binalarda boru içinden çekilen tek damarlı PVC yalıtımlı tesisat kablosudur. TTR ise çok damarlı, esnek ve hortum kılıflı kablodur; beyaz eşya ve uzatma kablolarında görülür. Bakır oranı ve damar kalınlığı farklı olduğu için onları ayrı değerlendiriyoruz."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Kablo Hurdası Alan Yer",
-   "description": "Kablo hurdasını Bursa'da kim alır, kabloları nasıl sınıflandırıyoruz ve teslim süreci nasıl işler; ayrıca satmadan önce yapmanız gerekenler.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Kablo Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa kablo hurdası nereye satılır?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Hurdacı Polat'a 0539 469 51 16 numarasından ulaşabilirsiniz. Fotoğraf gönderin, sınıfını ve değerlendirme sürecini birlikte konuşalım."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Kabloları soymadan verebilir miyim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Türlerine göre ayırıp olduğu gibi verebilirsiniz. Ancak kalın kablolarda soymak daha yüksek değer sağlayabilir."
      }
     },
     {
@@ -4805,14 +4545,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Kesit bilgisi kablonun içindeki bakır miktarını tahmin etmemizi sağlar; böylece ön değerlendirme hızlanır."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     }
    ]
@@ -5111,7 +4843,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-karacabey-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-karacabey-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -5387,7 +5119,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-keles-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-keles-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -5510,7 +5242,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -5772,86 +5504,13 @@
       "@type": "Answer",
       "text": "Paslanmaz levha, mutfak ekipmanı, boru ve talaş skalada ayrı satırlardadır. Güncel kilogram fiyatı bu sayfadaki tabloda yer alır; mıknatıs çeken krom kaplı parçalar bu gruba girmez."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Krom (Paslanmaz) Hurdası Alan Yer",
-   "description": "Krom (paslanmaz) hurdasını Bursa'da kimin aldığını, paslanmaz sınıflarını nasıl ayıracağınızı ve satmadan önce neler yapacağınızı anlatıyoruz.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Krom (Paslanmaz) Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa krom hurdası nereye satılır?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Hurdacı Polat'a 0539 469 51 16 numarasından ulaşabilirsiniz. Fotoğraf ve mıknatıs testi sonucunu gönderin."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Krom hurdası ile paslanmaz aynı şey mi?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Hurda piyasasında \"krom\" sözü paslanmaz çeliği anlatır."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Mıknatısı tutan paslanmaz değersiz mi?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hayır, onu da değerlendiririz. Ancak genellikle mıknatısı tutmayan 304 kaliteden daha düşük bir sınıftadır."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Restoranımızı kapatıyoruz, mutfak ekipmanını değerlendirir misiniz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Ekipmanın listesini ve fotoğraflarını gönderin; çalışır durumdaysa ikinci el seçeneğini de konuşalım."
      }
     },
     {
@@ -5876,14 +5535,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Paslanmazın değeri büyük ölçüde nikel fiyatına bağlıdır. Dolayısıyla nikel fiyatı ve döviz kuru değiştikçe krom hurdası fiyatı da değişir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     },
     {
@@ -5921,11 +5572,11 @@
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html#sayfa",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#sayfa",
    "@type": "WebPage",
-   "name": "Bursa Kurşun Hurda Fiyatları",
-   "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html",
-   "description": "Kurşun levha ve boru, balans ağırlığı ve kablo kılıfı için güncel kilogram fiyatı; kurşunla güvenli çalışma.",
+   "name": "Bursa Kurşun Hurdası Alan Yer ve Güncel Fiyat",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html",
+   "description": "Kurşun hurdasını Bursa'da kim alır, levha, boru ve balans ağırlığı için güncel kilogram fiyatı; kurşunu tanıma, güvenle saklama ve taşıma.",
    "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
@@ -5933,7 +5584,7 @@
    }
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html#breadcrumblist",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
     {
@@ -5951,13 +5602,13 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Bursa Kurşun Hurda Fiyatları",
-     "item": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html"
+     "name": "Bursa Kurşun Hurdası Alan Yer ve Güncel Fiyat",
+     "item": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html"
     }
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html#faqpage",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#faqpage",
    "@type": "FAQPage",
    "mainEntity": [
     {
@@ -6023,56 +5674,7 @@
       "@type": "Answer",
       "text": "Kurşunu kilogram üzerinden, sınıfına göre değerlendiriyoruz; güncel fiyat bu sayfadaki skalada yer alır. Kurşun çok ağır olduğu için küçük miktarlar bile kantarda belirgin ağırlık yapar."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Kurşun Hurdası Alan Yer",
-   "description": "Kurşun hurdasını Bursa'da kimin aldığını, kurşunu nasıl tanıyacağınızı ve özellikle güvenle nasıl ele alacağınızı anlatıyoruz.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Kurşun Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa kurşun hurdası nereye satılır?",
@@ -6123,22 +5725,6 @@
     },
     {
      "@type": "Question",
-     "name": "Kurşun hurdasını nasıl saklamalıyım?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kapaklı, sağlam bir kovada, çocuklardan ve gıdadan uzakta saklayın."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
-     }
-    },
-    {
-     "@type": "Question",
      "name": "Kurşun ile çinkoyu nasıl ayırırım?",
      "acceptedAnswer": {
       "@type": "Answer",
@@ -6175,14 +5761,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Ellerini sabunla iyice yıkatın ve kurşunu çocukların ulaşamayacağı bir yere kaldırın. Endişeniz varsa bir sağlık kuruluşuna danışın."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Kurşunu nerede saklamalıyım?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Kapaklı bir kapta, çocuklardan uzakta."
      }
     }
    ]
@@ -6312,7 +5890,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-mudanya-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-mudanya-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -6451,7 +6029,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-mustafakemalpasa-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-mustafakemalpasa-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -6566,7 +6144,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-nilufer-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-nilufer-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -6697,7 +6275,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-orhaneli-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-orhaneli-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -6834,7 +6412,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-10-29"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-osb-hurda-alimi.html#breadcrumblist",
@@ -7098,11 +6676,11 @@
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html#sayfa",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#sayfa",
    "@type": "WebPage",
-   "name": "Bursa Sarı (Pirinç) Hurda Fiyatları",
-   "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html",
-   "description": "Musluk, batarya, vana, rakor ve pirinç talaşı için güncel kilogram fiyatı; sarıyı bakır ve bronzdan ayırma yolları.",
+   "name": "Bursa Sarı (Pirinç) Hurdası Alan Yer ve Güncel Fiyat",
+   "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html",
+   "description": "Bursa sarı (pirinç) hurdasını kim alır, musluk, vana ve talaş için güncel kilogram fiyatı; sarıyı bakırdan ayırma ve satmadan önce hazırlık.",
    "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
@@ -7110,7 +6688,7 @@
    }
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html#breadcrumblist",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
     {
@@ -7128,13 +6706,13 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "Bursa Sarı (Pirinç) Hurda Fiyatları",
-     "item": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html"
+     "name": "Bursa Sarı (Pirinç) Hurdası Alan Yer ve Güncel Fiyat",
+     "item": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html"
     }
    ]
   },
   {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html#faqpage",
+   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#faqpage",
    "@type": "FAQPage",
    "mainEntity": [
     {
@@ -7208,56 +6786,7 @@
       "@type": "Answer",
       "text": "Pirinç alaşımlarının kodlarıdır; rakam yaklaşık bakır oranını gösterir. Ms58 vana, rakor ve otomat parçalarında, bakır oranı daha yüksek Ms70 ise kovan ve radyatör gibi parçalarda görülür. Bakır oranı arttıkça sarı hurdanın değeri de artar."
      }
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#makale",
-   "@type": "Article",
-   "headline": "Bursa Sarı (Pirinç) Hurdası Alan Yer",
-   "description": "Bursa sarı hurdası (pirinç) kim alır, sarı hurda sınıfları nelerdir; ayrıca satmadan önce neler yapmalısınız.",
-   "datePublished": "2026-10-17",
-   "dateModified": "2026-10-17",
-   "inLanguage": "tr-TR",
-   "mainEntityOfPage": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html",
-   "image": "https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg",
-   "author": {
-    "@type": "Organization",
-    "name": "Bursa Hurdacı Polat",
-    "url": "https://bursahurdacipolat.com.tr/"
-   },
-   "publisher": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#breadcrumblist",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Ana sayfa",
-     "item": "https://bursahurdacipolat.com.tr/"
     },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Makaleler",
-     "item": "https://bursahurdacipolat.com.tr/makaleler.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Bursa Sarı (Pirinç) Hurdası Alan Yer",
-     "item": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html"
-    }
-   ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#faqpage",
-   "@type": "FAQPage",
-   "mainEntity": [
     {
      "@type": "Question",
      "name": "Bursa sarı hurdası nereye satılır?",
@@ -7272,22 +6801,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Evet. Hurda piyasasında pirince \"sarı\" denir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Musluklarımın içindeki demir mili çıkarmalı mıyım?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Çıkarabiliyorsanız çıkarın. Çünkü demirden arındırılmış pirinç daha iyi bir sınıfa girer."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Krom kaplı bataryalar sarı hurda mı?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Gövdeleri genellikle pirinçtir. Ancak kaplama nedeniyle onları ayrı bir sınıfta değerlendirebiliriz."
      }
     },
     {
@@ -7312,14 +6825,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Bronz pirinçten ayrı bir alaşımdır; onu kendi sınıfında değerlendiririz."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hangi saatlerde ulaşabilirim?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında telefonla ya da WhatsApp'tan ulaşabilirsiniz."
      }
     },
     {
@@ -7352,14 +6857,6 @@
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Koymayın. Bakır ve pirinç ayrı sınıflardır; karışırsa ikisi de düşük tartılabilir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Sarı hurda fiyatını nereden görürüm?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sarı hurda fiyatları sayfamızda güncel kilogram fiyatını tarihiyle paylaşıyoruz."
      }
     }
    ]
@@ -7612,7 +7109,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-yildirim-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-yildirim-hurdaci.html",
-   "dateModified": "2026-10-29",
+   "dateModified": "2026-11-09",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -8099,7 +7596,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-06"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/hakkimizda.html#aboutpage",
@@ -8615,7 +8112,7 @@
      "@type": "ListItem",
      "position": 5,
      "name": "Sarı (pirinç) hurda fiyatları",
-     "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurda-fiyatlari.html"
+     "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html"
     },
     {
      "@type": "ListItem",
@@ -8627,7 +8124,7 @@
      "@type": "ListItem",
      "position": 7,
      "name": "Kablo hurda fiyatları",
-     "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurda-fiyatlari.html"
+     "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html"
     },
     {
      "@type": "ListItem",
@@ -8645,13 +8142,13 @@
      "@type": "ListItem",
      "position": 10,
      "name": "Kurşun hurda fiyatları",
-     "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurda-fiyatlari.html"
+     "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html"
     },
     {
      "@type": "ListItem",
      "position": 11,
      "name": "Döküm hurda fiyatları",
-     "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurda-fiyatlari.html"
+     "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html"
     }
    ]
   },
@@ -10086,7 +9583,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-06"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#collectionpage",
@@ -10096,7 +9593,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-02"
+   "dateModified": "2026-11-09"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#itemlist",
@@ -10243,108 +9740,66 @@
     {
      "@type": "ListItem",
      "position": 24,
-     "name": "Bursa Sarı (Pirinç) Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 25,
-     "name": "Bursa Krom (Paslanmaz) Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-krom-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 26,
-     "name": "Bursa Kablo Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 27,
-     "name": "Bursa Akü Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-aku-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 28,
-     "name": "Bursa Çinko Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-cinko-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 29,
-     "name": "Bursa Kurşun Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 30,
-     "name": "Bursa Döküm Hurdası Alan Yer",
-     "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html"
-    },
-    {
-     "@type": "ListItem",
-     "position": 31,
      "name": "Bursa'da En Yakın Hurdacı Nasıl Bulunur",
      "url": "https://bursahurdacipolat.com.tr/bursada-en-yakin-hurdaci-nasil-bulunur.html"
     },
     {
      "@type": "ListItem",
-     "position": 32,
+     "position": 25,
      "name": "Adresten Hurda Alımı Nasıl İşler",
      "url": "https://bursahurdacipolat.com.tr/adresten-hurda-alimi-nasil-isler.html"
     },
     {
      "@type": "ListItem",
-     "position": 33,
+     "position": 26,
      "name": "Hurda Bakır Çeşitleri Nasıl Ayırt Edilir",
      "url": "https://bursahurdacipolat.com.tr/hurda-bakir-cesitleri-nasil-ayirt-edilir.html"
     },
     {
      "@type": "ListItem",
-     "position": 34,
+     "position": 27,
      "name": "Kablo Hurdası Soyulmalı mı",
      "url": "https://bursahurdacipolat.com.tr/kablo-hurdasi-soyulmali-mi.html"
     },
     {
      "@type": "ListItem",
-     "position": 35,
+     "position": 28,
      "name": "Beyaz Eşya Hurdası Nasıl Hazırlanır",
      "url": "https://bursahurdacipolat.com.tr/beyaz-esya-hurdasi-nasil-hazirlanir.html"
     },
     {
      "@type": "ListItem",
-     "position": 36,
+     "position": 29,
      "name": "Hurda Fiyatını Etkileyen Faktörler",
      "url": "https://bursahurdacipolat.com.tr/hurda-fiyatini-etkileyen-faktorler.html"
     },
     {
      "@type": "ListItem",
-     "position": 37,
+     "position": 30,
      "name": "Sarı (Pirinç) ile Bakır Arasındaki Fark",
      "url": "https://bursahurdacipolat.com.tr/sari-pirinc-ile-bakir-farki.html"
     },
     {
      "@type": "ListItem",
-     "position": 38,
+     "position": 31,
      "name": "Krom ve Paslanmaz Hurdada Mıknatıs Testi",
      "url": "https://bursahurdacipolat.com.tr/krom-paslanmaz-miknatis-testi.html"
     },
     {
      "@type": "ListItem",
-     "position": 39,
+     "position": 32,
      "name": "Akü Hurdası Nasıl Güvenle Taşınır",
      "url": "https://bursahurdacipolat.com.tr/aku-hurdasi-guvenli-tasima.html"
     },
     {
      "@type": "ListItem",
-     "position": 40,
+     "position": 33,
      "name": "Ev Boşaltırken Hurda Nasıl Ayrılır",
      "url": "https://bursahurdacipolat.com.tr/ev-bosaltirken-hurda-ayirma.html"
     },
     {
      "@type": "ListItem",
-     "position": 41,
+     "position": 34,
      "name": "Bursa Fabrika Hurdası Alımı",
      "url": "https://bursahurdacipolat.com.tr/bursa-fabrika-hurdasi-alimi.html"
     }
