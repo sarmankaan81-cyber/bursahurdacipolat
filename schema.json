@@ -3032,6 +3032,24 @@
    ]
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-elektronik-kart-hurdasi-alan.html#video",
+   "@type": "VideoObject",
+   "name": "Eski bilgisayar kasası ve elektronik kart hurdası nasıl ayrılır?",
+   "description": "Bilgisayar kasasında anakart, güç kaynağı ve sac gövdenin ayrı değerlendirildiği; kabloların ayrı koliye, pil ve akülerin ayrı gruba konması üzerine kısa anlatım.",
+   "uploadDate": "2026-11-22",
+   "duration": "PT34S",
+   "inLanguage": "tr-TR",
+   "thumbnailUrl": [
+    "https://i.ytimg.com/vi/WHcX4QVSfkM/hqdefault.jpg",
+    "https://bursahurdacipolat.com.tr/assets/img/bursa-elektronik-kart-hurdasi-alan-video-640.avif"
+   ],
+   "embedUrl": "https://www.youtube.com/embed/WHcX4QVSfkM",
+   "url": "https://www.youtube.com/shorts/WHcX4QVSfkM",
+   "publisher": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   }
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-fabrika-hurdasi-alimi.html#makale",
    "@type": "Article",
    "headline": "Bursa Fabrika Hurdası Alımı",
@@ -3854,6 +3872,24 @@
    ]
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-hurda-pazari-nerede.html#video",
+   "@type": "VideoObject",
+   "name": "Bursa Hurda Pazarı mı, hurdacı mı? Eşyanızı nereye vermelisiniz",
+   "description": "Çalışan eşya, alet ve antikanın hafta sonu kurulan Bursa Hurda Pazarı'nda; bozuk petek, kombi, kablo ve demirin ise kilo ile fiyat veren hurdacıda değerlendirilmesi üzerine kısa anlatım.",
+   "uploadDate": "2026-11-12",
+   "duration": "PT36S",
+   "inLanguage": "tr-TR",
+   "thumbnailUrl": [
+    "https://i.ytimg.com/vi/KHhlyjWQN-M/hqdefault.jpg",
+    "https://bursahurdacipolat.com.tr/assets/img/bursa-hurda-pazari-nerede-video-640.avif"
+   ],
+   "embedUrl": "https://www.youtube.com/embed/KHhlyjWQN-M",
+   "url": "https://www.youtube.com/shorts/KHhlyjWQN-M",
+   "publisher": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   }
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-hurdaci-telefonu.html#contactpage",
    "@type": "ContactPage",
    "name": "Bursa Hurdacı Telefonu",
@@ -3943,7 +3979,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-21"
+   "dateModified": "2026-11-22"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html#itemlist",
@@ -6595,7 +6631,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-osmangazi-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-osmangazi-hurdaci.html",
-   "dateModified": "2026-11-21",
+   "dateModified": "2026-11-22",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -8825,6 +8861,24 @@
      }
     }
    ]
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/hurda-sofben-termosifon-ne-kadar-eder.html#video",
+   "@type": "VideoObject",
+   "name": "Eski şofben ve termosifon hurdaya nasıl verilir? Değeri bakırda",
+   "description": "Şofbende değerin bakır serpantinden, vana ve rakorların sarı gruptan, termosifonda ağırlığın sac gövdeden geldiği; gaz ve su bağlantısının yetkili kişiye kapattırılması üzerine kısa anlatım.",
+   "uploadDate": "2026-11-22",
+   "duration": "PT36S",
+   "inLanguage": "tr-TR",
+   "thumbnailUrl": [
+    "https://i.ytimg.com/vi/hAVqFRzNJAA/hqdefault.jpg",
+    "https://bursahurdacipolat.com.tr/assets/img/hurda-sofben-termosifon-ne-kadar-eder-video-640.avif"
+   ],
+   "embedUrl": "https://www.youtube.com/embed/hAVqFRzNJAA",
+   "url": "https://www.youtube.com/shorts/hAVqFRzNJAA",
+   "publisher": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   }
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/hurda-terimleri-sozlugu.html#makale",
