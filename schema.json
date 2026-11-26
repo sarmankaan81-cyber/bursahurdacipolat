@@ -3979,7 +3979,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-22"
+   "dateModified": "2026-11-26"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html#itemlist",
@@ -5182,10 +5182,30 @@
    "areaServed": {
     "@type": "AdministrativeArea",
     "name": "Kestel",
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": 40.1978,
+     "longitude": 29.2122
+    },
     "containedInPlace": {
      "@type": "City",
      "name": "Bursa"
     }
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html#videoobject",
+   "@type": "VideoObject",
+   "name": "Kestel hurdacı: bir dakikada nasıl çalışıyoruz?",
+   "description": "Kestel'de sanayi, depo ve köy hurdasının nasıl ayrıldığı, bakırın sarıdan ayırt edilmesi ve tartı. Hurdacı Polat, 0539 469 51 16.",
+   "uploadDate": "2026-11-26",
+   "duration": "PT54S",
+   "inLanguage": "tr-TR",
+   "contentUrl": "https://bursahurdacipolat.com.tr/assets/video/bursa-kestel-hurdaci-video.mp4",
+   "thumbnailUrl": "https://bursahurdacipolat.com.tr/assets/img/bursa-kestel-hurdaci-video-kapak-640.avif",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html",
+   "publisher": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
   },
   {
@@ -5218,10 +5238,26 @@
    "mainEntity": [
     {
      "@type": "Question",
+     "name": "Kestel hurdacı telefon numarası nedir?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "0539 469 51 16. Her gün 08:00–22:00 arasında arayabilir, WhatsApp'tan hurdanın fotoğrafını ve mahallenizi gönderebilirsiniz."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Kestel'in köylerinden de hurda değerlendiriyor musunuz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Evet. Saitabat, Soğuksu, Babasultan, Kayacık ve diğer köylerden görüşüyoruz. Birkaç evin hurdasını tek noktada toplamak en verimli yol; fotoğraf ve konum gönderin, birlikte planlayalım."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "Fabrikamızdan her ay talaş çıkıyor, nasıl çalışabiliriz?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Talaşı türüne göre ayrı kasalarda, mümkünse yağı süzülmüş hâlde biriktirin ve aylık miktarı bildirin; düzenli değerlendirmeyi buna göre planlarız."
+      "text": "Talaşı türüne göre ayrı kasalarda, mümkünse yağı süzülmüş hâlde biriktirin ve aylık yaklaşık miktarı bildirin; düzenli değerlendirmeyi buna göre planlarız."
      }
     },
     {
@@ -5234,15 +5270,15 @@
     },
     {
      "@type": "Question",
-     "name": "Köyümüzde birkaç evin hurdası var, birlikte değerlendirilebilir mi?",
+     "name": "Eski bakır kazanın içi gümüş gibi, bakır mı?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Evet. Hurdaları tek noktada toplamak en verimli yoldur; fotoğraf ve konum gönderin, birlikte planlayalım."
+      "text": "Büyük olasılıkla kalaylı bakırdır. Dış yüzü ya da kesik ucu kırmızımsıysa bakır olarak değerlendirilir; emin değilseniz fotoğraf gönderin."
      }
     },
     {
      "@type": "Question",
-     "name": "Eski süt güğümü paslanmaz mı alüminyum mu, nasıl anlarım?",
+     "name": "Süt güğümü paslanmaz mı alüminyum mu, nasıl anlarım?",
      "acceptedAnswer": {
       "@type": "Answer",
       "text": "Paslanmaz ağırdır ve kaliteli olanı mıknatısı tutmaz; alüminyum çok hafiftir. Emin olamazsanız fotoğraf gönderin."
@@ -5250,34 +5286,18 @@
     },
     {
      "@type": "Question",
-     "name": "Talaşın içindeki yağ değeri etkiler mi?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Evet. Yağ ağırlık yapar ama değer taşımaz; bu yüzden yağı süzülmüş talaşı daha doğru değerlendiririz."
-     }
-    },
-    {
-     "@type": "Question",
      "name": "Sökülen elektrik motorlarını parçalamamız gerekir mi?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Gerekmez. Motorları etiketli ve bütün hâlde göndermeniz yeterli; çünkü etiketteki güç bilgisi içerik hakkında fikir verir; bakır sargıyı da tartıda ayrı değerlendiririz."
+      "text": "Gerekmez. Motorları etiketli ve bütün hâlde göstermeniz yeterli; etiketteki güç bilgisi içerik hakkında fikir verir."
      }
     },
     {
      "@type": "Question",
-     "name": "Hangi saatlerde arayabilirim?",
+     "name": "Kestel'de hurda fiyatları nereden öğrenilir?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Her gün 08:00–22:00 arasında arayabilir ya da WhatsApp'tan yazabilirsiniz."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Kestel hurdacı telefon numarası nedir?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "0539 469 51 16. Fotoğraf ve konumu WhatsApp'tan da gönderebilirsiniz; işletmeler için aylık miktar bilgisi de eklenebilir."
+      "text": "Güncel kilogram fiyatlarını tarihiyle fiyat listemizde paylaşıyoruz; bu sayfadaki grafik de aynı listeden gelir. Kesin fiyat hurda görüldükten sonra netleşir."
      }
     }
    ]
@@ -5286,7 +5306,7 @@
    "@id": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html#sayfa",
    "@type": "WebPage",
    "url": "https://bursahurdacipolat.com.tr/bursa-kestel-hurdaci.html",
-   "dateModified": "2026-11-09",
+   "dateModified": "2026-11-26",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
@@ -7692,7 +7712,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-22"
+   "dateModified": "2026-11-26"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/hakkimizda.html#aboutpage",
@@ -9638,7 +9658,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-22"
+   "dateModified": "2026-11-26"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#collectionpage",
