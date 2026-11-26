@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hurdayı Ayır: Bakır mı, Sarı mı, Krom mu? | Bursa Hurdacı Polat</title>
+<meta name="description" content="60 saniyede hurdaları doğru kasaya ayır. Mıknatıs ve kesik uç testiyle bakırı sarıdan, kromu alüminyumdan ayırmayı oynayarak öğren; puanın bugünkü hurda fiyatlarıyla TL'ye çevrilsin.">
+<meta name="geo.region" content="TR-16">
+<meta name="geo.placename" content="Yıldırım, Bursa">
+<meta name="geo.position" content="40.20104;29.10141">
+<meta name="ICBM" content="40.20104, 29.10141">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#0c3b2e">
+<style>
+:root{--g:#0c3b2e;--g2:#0f4d3b;--g3:#1a6b52;--au:#e0b13a;--au2:#c99a22;--bg:#f6f7f3;--ln:#dfe5de;--ink:#14211c;--mut:#4a5a53;--ok:#1f9d55;--no:#c2410c}
+*{box-sizing:border-box}html,body{margin:0}
+body{font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;background:var(--bg);color:var(--ink);-webkit-tap-highlight-color:transparent}
+a{color:var(--g3)}
+.ust{background:var(--g);color:#fff}.ust .k{max-width:1000px;margin:0 auto;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;gap:12px}
+.marka{color:#fff;text-decoration:none;font-weight:800;letter-spacing:.02em}.marka b{color:var(--au)}
+.tel{background:var(--au);color:var(--ink);text-decoration:none;font-weight:800;padding:8px 14px;border-radius:10px;white-space:nowrap}
+main{max-width:1000px;margin:0 auto;padding:16px}
+h1{font-size:clamp(1.7rem,5vw,2.6rem);line-height:1.05;margin:10px 0 6px;color:var(--g)}h1 em{font-style:normal;color:var(--au2)}
+.alt{color:var(--mut);margin:0 0 16px;max-width:62ch}
+/* oyun alanı */
+.oyun{background:#fff;border:1px solid var(--ln);border-radius:20px;overflow:hidden;box-shadow:0 24px 50px -34px rgba(12,59,46,.6)}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 16px;background:var(--g);color:#fff;font-weight:700}
+.bar span b{color:var(--au);font-size:1.15rem}
+.sure{flex:1;height:8px;background:rgba(255,255,255,.15);border-radius:99px;overflow:hidden;margin:0 10px}.sure i{display:block;height:100%;width:100%;background:var(--au);transition:width .25s linear}
+.sahne{position:relative;min-height:330px;padding:18px 16px 8px;display:grid;place-items:center;background:repeating-linear-gradient(90deg,#eef1ec 0 22px,#e6eae4 22px 44px)}
+.bant{position:absolute;left:0;right:0;bottom:18px;height:16px;background:#3a4642;box-shadow:inset 0 3px 0 #556560}
+.parca{position:relative;z-index:1;width:min(320px,88vw);background:#fff;border:2px solid var(--ln);border-radius:18px;padding:16px 16px 12px;text-align:center;box-shadow:0 18px 30px -22px rgba(0,0,0,.5);animation:gir .35s ease-out}
+@keyframes gir{from{transform:translateX(60px);opacity:0}to{transform:none;opacity:1}}
+.parca.dogru{animation:dogru .35s ease-in forwards}.parca.yanlis{animation:salla .4s}
+@keyframes dogru{to{transform:translateY(80px) scale(.6);opacity:0}}
+@keyframes salla{0%,100%{transform:none}25%{transform:translateX(-10px)}75%{transform:translateX(10px)}}
+.parca svg{width:120px;height:92px;display:block;margin:0 auto 6px}
+.parca h2{margin:0;font-size:1.2rem}.parca p{margin:4px 0 10px;color:var(--mut);font-size:.9rem}
+.testler{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.test{border:1px solid var(--ln);background:var(--bg);border-radius:10px;padding:7px 10px;font-family:inherit;font-weight:600;font-size:.85rem;cursor:pointer;color:var(--ink)}
+.test:disabled{cursor:default;background:#fff}.test .s{display:inline-block;width:12px;height:12px;border-radius:50%;vertical-align:-1px;margin-right:4px;border:1px solid rgba(0,0,0,.2)}
+.ipucu{min-height:22px;margin:10px 0 0;font-size:.9rem;font-weight:600}
+.ipucu.ok{color:var(--ok)}.ipucu.no{color:var(--no)}
+.kasalar{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;padding:12px}
+.kasa{border:0;border-radius:14px;padding:12px 6px 10px;cursor:pointer;font-family:inherit;font-weight:800;font-size:.95rem;color:#fff;display:flex;flex-direction:column;align-items:center;gap:4px;box-shadow:inset 0 -5px 0 rgba(0,0,0,.18);transition:transform .1s}
+.kasa:active{transform:translateY(2px)}.kasa small{font-weight:600;font-size:.72rem;opacity:.85}.kasa kbd{font-family:inherit;font-weight:700;font-size:.7rem;background:rgba(255,255,255,.2);border-radius:5px;padding:1px 5px}
+.k-demir{background:#4b5563}.k-bakir{background:#b45309}.k-sari{background:#b8860b}.k-aluminyum{background:#64748b}.k-krom{background:#0f4d3b}
+.kasa:disabled{opacity:.45;cursor:default}
+/* ekranlar */
+.ekran{padding:28px 20px;text-align:center}
+.ekran h2{margin:0 0 8px;color:var(--g);font-size:1.6rem}
+.ekran p{color:var(--mut);max-width:52ch;margin:0 auto 14px}
+.kurallar{list-style:none;padding:0;margin:0 auto 20px;max-width:520px;text-align:left;display:grid;gap:8px}
+.kurallar li{background:var(--bg);border-radius:12px;padding:10px 14px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;border-radius:12px;padding:13px 22px;font-family:inherit;font-weight:800;font-size:1rem;cursor:pointer;text-decoration:none}
+.btn-au{background:var(--au);color:var(--ink)}.btn-wa{background:#15803d;color:#fff}.btn-g{background:var(--g);color:#fff}
+.sonuc{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;max-width:560px;margin:0 auto 18px}
+.sonuc div{background:var(--g);color:#fff;border-radius:14px;padding:14px 8px}.sonuc b{display:block;font-size:1.5rem;color:var(--au)}.sonuc span{font-size:.8rem;opacity:.85}
+.tl{font-size:1.15rem;color:var(--ink)!important}.tl b{color:var(--g)}
+.rozet{display:inline-block;background:var(--au);color:var(--ink);font-weight:800;border-radius:99px;padding:8px 16px;margin:0 0 14px}
+.dugmeler{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.yanlislar{max-width:560px;margin:16px auto 0;text-align:left;font-size:.9rem}.yanlislar li{margin:4px 0}
+.ogren{margin-top:22px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.ogren a{display:block;background:#fff;border:1px solid var(--ln);border-radius:14px;padding:14px;text-decoration:none;color:var(--ink)}.ogren a b{display:block;color:var(--g);margin-bottom:4px}
+.not{font-size:.8rem;color:var(--mut);margin-top:14px}
+[hidden]{display:none!important}
+@media (max-width:640px){.kasalar{grid-template-columns:repeat(5,1fr);gap:5px;padding:8px}.kasa{padding:10px 2px 8px;font-size:.78rem}.kasa small,.kasa kbd{display:none}.ogren{grid-template-columns:1fr}.sonuc b{font-size:1.25rem}.sahne{min-height:300px}}
+</style>
+<link rel="canonical" href="https://bursahurdacipolat.com.tr/hurdayi-ayir.html">
+<link rel="icon" href="/favicon.ico">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:site_name" content="Bursa Hurdacı Polat">
+<meta property="og:title" content="Hurdayı Ayır: Bakır mı, Sarı mı, Krom mu? | Bursa Hurdacı Polat">
+<meta property="og:description" content="60 saniyede hurdaları doğru kasaya ayır. Mıknatıs ve kesik uç testiyle bakırı sarıdan, kromu alüminyumdan ayırmayı oynayarak öğren; puanın bugünkü hurda fiyatlarıyla TL'ye çevrilsin.">
+<meta property="og:url" content="https://bursahurdacipolat.com.tr/hurdayi-ayir.html">
+<meta property="og:image" content="https://bursahurdacipolat.com.tr/assets/img/og-65124f4d.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "WebPage",
+        "VideoGame"
+      ],
+      "@id": "https://bursahurdacipolat.com.tr/hurdayi-ayir.html#oyun",
+      "name": "Hurdayı Ayır",
+      "url": "https://bursahurdacipolat.com.tr/hurdayi-ayir.html",
+      "description": "60 saniyede hurdaları doğru kasaya ayır. Mıknatıs ve kesik uç testiyle bakırı sarıdan, kromu alüminyumdan ayırmayı oynayarak öğren; puanın bugünkü hurda fiyatlarıyla TL'ye çevrilsin.",
+      "inLanguage": "tr-TR",
+      "genre": "Eğitici",
+      "gamePlatform": "Web tarayıcısı",
+      "applicationCategory": "Game",
+      "operatingSystem": "Tümü",
+      "isAccessibleForFree": true,
+      "publisher": {
+        "@id": "https://bursahurdacipolat.com.tr/#isletme"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ana sayfa",
+          "item": "https://bursahurdacipolat.com.tr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hurdayı Ayır",
+          "item": "https://bursahurdacipolat.com.tr/hurdayi-ayir.html"
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+<header class="ust"><div class="k"><a class="marka" href="/">BURSA HURDACI <b>POLAT</b></a><a class="tel" href="tel:+905394695116">0539 469 51 16</a></div></header>
+<main>
+  <h1>Hurdayı Ayır: <em>bakır mı, sarı mı?</em></h1>
+  <p class="alt">Bant üzerinde gelen hurdayı doğru kasaya at. Emin değilsen gerçek hurdacılar gibi <b>mıknatıs</b> ya da <b>kesik uç</b> testi yap. 60 saniyede ne kadar hurda ayırabilirsin?</p>
+
+  <section class="oyun" data-oyun aria-label="Hurdayı Ayır oyunu">
+    <div class="bar"><span>Puan <b id="puan">0</b></span><div class="sure" aria-hidden="true"><i id="sure"></i></div><span><b id="saniye">60</b> sn</span></div>
+
+    <div id="giris" class="ekran">
+      <h2>Nasıl oynanır?</h2>
+      <ul class="kurallar">
+        <li>🔩 Bantta bir hurda belirir. Altındaki <b>5 kasadan</b> doğru olana dokun (bilgisayarda 1–5 tuşları).</li>
+        <li>🧲 <b>Mıknatıs testi</b>: demir tutar; bakır, sarı, alüminyum ve paslanmaz krom tutmaz.</li>
+        <li>✂️ <b>Kesik uç testi</b>: bakır kırmızımsı, sarı altın sarısı, alüminyum mat gri, krom parlak gridir.</li>
+        <li>⭐ Doğru: +10 puan, testsiz bilirsen +5 bonus, üst üste bilirsen seri bonusu. Yanlış: seri sıfırlanır.</li>
+      </ul>
+      <button class="btn btn-au" id="basla" type="button">Oyuna başla</button>
+    </div>
+
+    <div id="oyun" hidden>
+      <div class="sahne">
+        <div class="bant"></div>
+        <article class="parca" id="parca" aria-live="polite">
+          <div id="cizim"></div>
+          <h2 id="ad"></h2>
+          <p id="aciklama"></p>
+          <div class="testler">
+            <button class="test" id="t-miknatis" type="button">🧲 Mıknatıs testi</button>
+            <button class="test" id="t-kesik" type="button">✂️ Kesik uç</button>
+          </div>
+          <p class="ipucu" id="ipucu"></p>
+        </article>
+      </div>
+      <div class="kasalar" id="kasalar">
+        <button class="kasa k-demir" data-m="demir" type="button">Demir<small>mıknatıs tutar</small><kbd>1</kbd></button>
+        <button class="kasa k-bakir" data-m="bakir" type="button">Bakır<small>kırmızımsı</small><kbd>2</kbd></button>
+        <button class="kasa k-sari" data-m="sari" type="button">Sarı<small>pirinç</small><kbd>3</kbd></button>
+        <button class="kasa k-aluminyum" data-m="aluminyum" type="button">Alüminyum<small>çok hafif</small><kbd>4</kbd></button>
+        <button class="kasa k-krom" data-m="krom" type="button">Krom<small>paslanmaz</small><kbd>5</kbd></button>
+      </div>
+    </div>
+
+    <div id="son" class="ekran" hidden>
+      <span class="rozet" id="rozet"></span>
+      <h2 id="son-baslik">Süre doldu!</h2>
+      <div class="sonuc">
+        <div><b id="s-puan">0</b><span>puan</span></div>
+        <div><b id="s-dogru">0</b><span>doğru ayrım</span></div>
+        <div><b id="s-seri">0</b><span>en uzun seri</span></div>
+      </div>
+      <p class="tl">Doğru ayırdığın <b id="s-kg">0 kg</b> hurda bugünkü ön fiyatlarla yaklaşık <b id="s-tl">0 ₺</b> eder.</p>
+      <div class="dugmeler">
+        <button class="btn btn-au" id="tekrar" type="button">Tekrar oyna</button>
+        <button class="btn btn-g" id="paylas" type="button">Puanını paylaş</button>
+        <a class="btn btn-wa" id="wa" href="https://wa.me/905394695116" target="_blank" rel="noopener">Gerçek hurdanı sat</a>
+      </div>
+      <ul class="yanlislar" id="yanlislar"></ul>
+      <p class="not" id="fiyat-not"></p>
+    </div>
+  </section>
+
+  <div class="ogren">
+    <a href="/krom-paslanmaz-miknatis-testi.html"><b>Mıknatıs testi nasıl yapılır?</b>Krom ve paslanmazı demirden ayırmanın en kolay yolu.</a>
+    <a href="/sari-pirinc-ile-bakir-farki.html"><b>Sarı pirinç ile bakır farkı</b>Kesik uç rengi, ağırlık ve sesle ayırt etme.</a>
+    <a href="/fiyat-listesi.html"><b>Güncel hurda fiyatları</b>Oyundaki TL hesabı bu listeden geliyor.</a>
+  </div>
+</main>
+
+<script>
+(function () {
+  // Bugünkü ön fiyatlar: yayında /fiyatlar.json'dan okunur; okunamazsa son bilinen fiyatlar
+  var FIYAT = { demir: 15, bakir: 610, sari: 300, aluminyum: 120, krom: 55 }, TARIH = '25 Kasım 2026';
+  fetch('/fiyatlar.json', { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (p) {
+    if (!p || !p.kalemler) return;
+    p.kalemler.forEach(function (k) { if (k.key in FIYAT && typeof k.fiyat === 'number') FIYAT[k.key] = k.fiyat; });
+    if (p.guncelleme) TARIH = new Date(p.guncelleme + 'T12:00:00').toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+  }).catch(function () {});
+
+  var AD = { demir: 'Demir', bakir: 'Bakır', sari: 'Sarı (pirinç)', aluminyum: 'Alüminyum', krom: 'Krom (paslanmaz)' };
+  var RENK = { demir: '#5b6470', bakir: '#c2652a', sari: '#d4a017', aluminyum: '#a7b0ba', krom: '#cfd6dc' };
+  var KESIK = { demir: 'koyu gri, pas lekeli', bakir: 'kırmızımsı turuncu', sari: 'altın sarısı', aluminyum: 'mat açık gri', krom: 'parlak gümüş gri' };
+  // Basit çizimler (özgün SVG): kazan, boru, profil, musluk, jant, tencere, tava, güğüm, kablo, sini, vana, kapı kolu, soba, kutu
+  function svg(sekil, r) {
+    var s = {
+      kazan: '<ellipse cx="60" cy="30" rx="44" ry="10" fill="' + r + '" opacity=".75"/><path d="M16 30h88l-8 46a10 10 0 0 1-10 8H34a10 10 0 0 1-10-8z" fill="' + r + '"/><path d="M10 34c-6 0-6 14 4 14M110 34c6 0 6 14-4 14" stroke="#333" stroke-width="3" fill="none"/>',
+      boru: '<rect x="8" y="34" width="104" height="22" rx="11" fill="' + r + '"/><ellipse cx="112" cy="45" rx="6" ry="11" fill="#0003"/>',
+      profil: '<path d="M10 30h100v10H66v32H54V40H10z" fill="' + r + '"/>',
+      musluk: '<rect x="50" y="18" width="20" height="40" rx="5" fill="' + r + '"/><path d="M70 30h28a8 8 0 0 1 8 8v14h-12V44H70z" fill="' + r + '"/><rect x="40" y="10" width="40" height="10" rx="5" fill="' + r + '"/><rect x="52" y="58" width="16" height="22" fill="' + r + '"/>',
+      jant: '<circle cx="60" cy="46" r="38" fill="' + r + '"/><circle cx="60" cy="46" r="12" fill="#fff8"/><path d="M60 12v22M60 58v22M26 46h22M72 46h22M36 22l15 15M69 55l15 15M84 22L69 37M51 55 36 70" stroke="#fff9" stroke-width="5"/>',
+      tencere: '<rect x="20" y="28" width="80" height="50" rx="8" fill="' + r + '"/><rect x="14" y="22" width="92" height="8" rx="4" fill="' + r + '"/><path d="M8 40h12M100 40h12" stroke="#333" stroke-width="6" stroke-linecap="round"/>',
+      guguM: '<path d="M44 10h32v14l12 10v46a6 6 0 0 1-6 6H38a6 6 0 0 1-6-6V34l12-10z" fill="' + r + '"/><rect x="40" y="6" width="40" height="8" rx="3" fill="#0003"/>',
+      kablo: '<path d="M10 70c20-50 40 10 60-30s30 10 40-20" stroke="#222" stroke-width="12" fill="none" stroke-linecap="round"/><path d="M10 70c20-50 40 10 60-30s30 10 40-20" stroke="' + r + '" stroke-width="5" fill="none" stroke-linecap="round"/>',
+      sini: '<ellipse cx="60" cy="48" rx="54" ry="28" fill="' + r + '"/><ellipse cx="60" cy="46" rx="44" ry="21" fill="#fff3"/>',
+      vana: '<rect x="20" y="40" width="80" height="22" rx="4" fill="' + r + '"/><circle cx="60" cy="51" r="16" fill="' + r + '"/><rect x="56" y="14" width="8" height="24" fill="' + r + '"/><rect x="36" y="8" width="48" height="10" rx="5" fill="#c0392b"/>',
+      kol: '<rect x="20" y="20" width="20" height="56" rx="6" fill="' + r + '"/><path d="M30 34h64a8 8 0 0 1 0 16H30z" fill="' + r + '"/>',
+      soba: '<rect x="30" y="20" width="60" height="62" rx="6" fill="' + r + '"/><rect x="40" y="44" width="40" height="22" rx="3" fill="#0004"/><rect x="54" y="4" width="12" height="18" fill="' + r + '"/>',
+      kutu: '<rect x="40" y="10" width="40" height="74" rx="10" fill="' + r + '"/><rect x="40" y="30" width="40" height="22" fill="#c0392b"/>',
+      evye: '<rect x="8" y="26" width="104" height="44" rx="6" fill="' + r + '"/><rect x="20" y="34" width="50" height="28" rx="6" fill="#0002"/><circle cx="92" cy="48" r="7" fill="#0003"/>',
+      petek: '<rect x="12" y="20" width="96" height="60" rx="4" fill="' + r + '"/><path d="M26 22v56M40 22v56M54 22v56M68 22v56M82 22v56M96 22v56" stroke="#0003" stroke-width="4"/>'
+    }[sekil];
+    return '<svg viewBox="0 0 120 92" aria-hidden="true">' + s + '</svg>';
+  }
+  // Hurdalar: ad, açıklama, metal, çizim, yaklaşık kg (TL hesabı için)
+  var H = [
+    ['Eski bakır kazan', 'İçi gümüş gibi parlıyor, dışı kızıl.', 'bakir', 'kazan', 6],
+    ['Kalorifer borusu', 'Tesisattan sökülmüş kızıl boru.', 'bakir', 'boru', 3],
+    ['Bakır sini', 'Köy evinden çıkan büyük tepsi.', 'bakir', 'sini', 4],
+    ['Soyulmuş kablo teli', 'Plastiği soyulmuş parlak tel.', 'bakir', 'kablo', 5],
+    ['Eski musluk', 'Banyodan sökülmüş, ağır ve sarımsı.', 'sari', 'musluk', 1],
+    ['Su vanası', 'Kırmızı kollu küresel vana.', 'sari', 'vana', 1],
+    ['Kapı kolu', 'Eski apartman kapısından.', 'sari', 'kol', 0.5],
+    ['Alüminyum doğrama', 'Pencere söküldü, çok hafif profil.', 'aluminyum', 'profil', 8],
+    ['Araba jantı', 'Hafif, parlak, döküm jant.', 'aluminyum', 'jant', 9],
+    ['Alüminyum tencere', 'Eski, ezik, çok hafif.', 'aluminyum', 'tencere', 1.5],
+    ['İçecek kutuları', 'Bir torba dolusu ezilmiş kutu.', 'aluminyum', 'kutu', 2],
+    ['Paslanmaz evye', 'Mutfaktan sökülmüş, mıknatısı tutmuyor.', 'krom', 'evye', 7],
+    ['Süt güğümü', 'Ağır, parlak; köy ahırından.', 'krom', 'guguM', 6],
+    ['Paslanmaz tencere', 'Ağır taban, parlak gövde.', 'krom', 'tencere', 2],
+    ['Demir profil', 'Kapı çerçevesinden kesilmiş.', 'demir', 'profil', 12],
+    ['Kalorifer peteği', 'Eski sac petek, ağır.', 'demir', 'petek', 25],
+    ['Odun sobası', 'Köy evinden, pas tutmuş.', 'demir', 'soba', 30],
+    ['Galvaniz boru', 'Gri ama mıknatısı tutuyor.', 'demir', 'boru', 6]
+  ];
+  var $ = function (id) { return document.getElementById(id); };
+  var deste = [], cur = null, puan = 0, dogru = 0, seri = 0, enSeri = 0, kg = 0, tl = 0, kalan = 60, zaman = null, testli = false, kilit = false, yanlis = [];
+  function karistir(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function yeni() {
+    if (!deste.length) deste = karistir(H.slice());
+    cur = deste.pop(); testli = false; kilit = false;
+    var p = $('parca'); p.className = 'parca'; void p.offsetWidth;
+    $('cizim').innerHTML = svg(cur[3], RENK[cur[2]]);
+    $('ad').textContent = cur[0]; $('aciklama').textContent = cur[1]; $('ipucu').textContent = ''; $('ipucu').className = 'ipucu';
+    $('t-miknatis').disabled = false; $('t-kesik').disabled = false;
+    $('t-miknatis').innerHTML = '🧲 Mıknatıs testi'; $('t-kesik').innerHTML = '✂️ Kesik uç';
+  }
+  $('t-miknatis').onclick = function () { if (!cur) return; testli = true; this.disabled = true; this.innerHTML = cur[2] === 'demir' ? '🧲 <b>Tuttu!</b>' : '🧲 Tutmadı'; };
+  $('t-kesik').onclick = function () { if (!cur) return; testli = true; this.disabled = true; this.innerHTML = '<span class="s" style="background:' + RENK[cur[2]] + '"></span>' + KESIK[cur[2]]; };
+  function sec(m) {
+    if (!cur || kilit || kalan <= 0) return;
+    kilit = true;
+    var p = $('parca'), ip = $('ipucu');
+    if (m === cur[2]) {
+      seri++; enSeri = Math.max(enSeri, seri); dogru++;
+      var ek = 10 + (testli ? 0 : 5) + Math.min(seri - 1, 5) * 2; puan += ek;
+      kg += cur[4]; tl += cur[4] * FIYAT[m];
+      ip.className = 'ipucu ok'; ip.textContent = '+' + ek + ' · ' + AD[m] + '!' + (seri > 1 ? ' Seri ×' + seri : '');
+      p.classList.add('dogru'); setTimeout(yeni, 380);
+    } else {
+      seri = 0; yanlis.push(cur[0] + ': ' + AD[cur[2]] + ' (sen ' + AD[m] + ' dedin)');
+      ip.className = 'ipucu no'; ip.textContent = 'Bu ' + AD[cur[2]] + '. ' + (cur[2] === 'demir' ? 'Mıknatısı tutar.' : 'Kesik ucu ' + KESIK[cur[2]] + '.');
+      p.classList.add('yanlis'); setTimeout(yeni, 1100);
+    }
+    $('puan').textContent = puan;
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('.kasa'), function (b) { b.onclick = function () { sec(b.dataset.m); }; });
+  document.addEventListener('keydown', function (e) { var m = ['demir', 'bakir', 'sari', 'aluminyum', 'krom'][+e.key - 1]; if (m && !$('oyun').hidden) sec(m); });
+  function tlYaz(n) { return Math.round(n).toLocaleString('tr-TR') + ' ₺'; }
+  function rozet() { return dogru >= 22 ? '🏆 Usta Hurdacı' : dogru >= 15 ? '🥇 Bakır Gözlü' : dogru >= 8 ? '🧲 Mıknatıs Ustası' : '🔩 Çırak Hurdacı'; }
+  function bitir() {
+    clearInterval(zaman); cur = null;
+    $('oyun').hidden = true; $('son').hidden = false;
+    $('s-puan').textContent = puan; $('s-dogru').textContent = dogru; $('s-seri').textContent = enSeri;
+    $('s-kg').textContent = kg.toLocaleString('tr-TR') + ' kg'; $('s-tl').textContent = tlYaz(tl);
+    $('rozet').textContent = rozet();
+    $('fiyat-not').textContent = 'TL hesabı ' + TARIH + ' tarihli ön fiyatlarla yapıldı; gerçek fiyat hurdanın cinsine, temizliğine ve miktarına göre tartıda netleşir.';
+    $('yanlislar').innerHTML = yanlis.length ? '<li><b>Karıştırdıkların:</b></li>' + yanlis.slice(0, 5).map(function (x) { return '<li>' + x + '</li>'; }).join('') : '';
+    $('wa').href = 'https://wa.me/905394695116?text=' + encodeURIComponent('Merhaba Hurdacı Polat, Hurdayı Ayır oyununda ' + puan + ' puan yaptım. Gerçek hurdamın fotoğrafını gönderiyorum.');
+  }
+  $('paylas').onclick = function () {
+    var m = 'Hurdayı Ayır oyununda ' + puan + ' puan yaptım (' + rozet() + '). Sen bakırı sarıdan ayırabilir misin?', u = location.origin + location.pathname;
+    if (navigator.share) navigator.share({ title: 'Hurdayı Ayır', text: m, url: u }).catch(function () {});
+    else { navigator.clipboard && navigator.clipboard.writeText(m + ' ' + u); this.textContent = 'Bağlantı kopyalandı'; }
+  };
+  function basla() {
+    puan = dogru = seri = enSeri = kg = tl = 0; kalan = 60; yanlis = []; deste = [];
+    $('puan').textContent = 0; $('saniye').textContent = 60; $('sure').style.width = '100%';
+    $('giris').hidden = true; $('son').hidden = true; $('oyun').hidden = false; yeni();
+    clearInterval(zaman);
+    zaman = setInterval(function () { kalan--; $('saniye').textContent = kalan; $('sure').style.width = (kalan / 60 * 100) + '%'; if (kalan <= 0) bitir(); }, 1000);
+  }
+  $('basla').onclick = basla; $('tekrar').onclick = basla;
+})();
+</script>
+</body>
+</html>
