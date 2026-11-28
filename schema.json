@@ -962,10 +962,112 @@
    "name": "Bursa Akü Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html",
    "description": "Otomobil, kamyon ve UPS aküleri için güncel kilogram fiyatı; atık akünün güvenli saklanması ve taşınması.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Akü hurdası alımı",
+   "serviceType": "Akü hurdası alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo akü hurdası 35 TL alınıyor; 3 sınıfın hepsinde fiyat aynı.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-aku-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 35,
+     "maxPrice": 35,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -1298,10 +1400,112 @@
    "name": "Bursa Alüminyum Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html",
    "description": "Profil, levha, döküm, jant, mutfak alüminyumu, kutu ve talaş için güncel kilogram fiyatı ve sınıf skalası.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Alüminyum hurda alımı",
+   "serviceType": "Alüminyum hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo alüminyum hurdası 80–135 TL arasında alınıyor: alüminyum jant 135 TL/kg, profil (doğrama) 130 TL/kg, alüminyum talaşı 80 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-aluminyum-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 80,
+     "maxPrice": 135,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -1578,10 +1782,112 @@
    "name": "Bursa Bakır Hurda Fiyatı: 1 Kilo Bakır Kaç TL?",
    "url": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html",
    "description": "Soyulmuş parlak bakır, boru, sargı ve karışık bakır için güncel kilogram fiyatı, sınıf farkları ve hazırlık önerileri.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Bakır hurda alımı",
+   "serviceType": "Bakır hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo bakır hurdası 580–640 TL arasında alınıyor: soyma bakır (soyulmuş parlak tel) 640 TL/kg, yanma bakır 610 TL/kg, kırkambar (karışık) bakır 580 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-bakir-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 580,
+     "maxPrice": 640,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -1617,7 +1923,7 @@
      "name": "1 kilo bakır kaç TL?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "25 Kasım 2026 itibarıyla Bursa'da 1 kilo bakır hurdası 580–640 TL arasında alınıyor: soyma bakır (soyulmuş parlak tel) 640 TL/kg, yanma bakır 610 TL/kg, kırkambar (karışık) bakır 580 TL/kg. Bakırın sınıfına göre değişir. Soyulmuş parlak bakır, boru, sargı ve karışık bakırın güncel kilogram fiyatları bu sayfadaki skalada, güncelleme tarihiyle yer alır."
+      "text": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo bakır hurdası 580–640 TL arasında alınıyor: soyma bakır (soyulmuş parlak tel) 640 TL/kg, yanma bakır 610 TL/kg, kırkambar (karışık) bakır 580 TL/kg. Bakırın sınıfına göre değişir. Soyulmuş parlak bakır, boru, sargı ve karışık bakırın güncel kilogram fiyatları bu sayfadaki skalada, güncelleme tarihiyle yer alır."
      }
     },
     {
@@ -1866,10 +2172,112 @@
    "name": "Bursa Beyaz Eşya Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html",
    "description": "Buzdolabı, çamaşır makinesi, fırın, kombi ve klima hurdası için güncel adet fiyatı ve cihaz bazında skala.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Beyaz eşya hurdası alımı",
+   "serviceType": "Beyaz eşya hurdası alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 adet beyaz eşya hurdası 500 TL alınıyor; 5 sınıfın hepsinde fiyat aynı.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-beyaz-esya-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 500,
+     "maxPrice": 500,
+     "priceCurrency": "TRY",
+     "unitText": "adet",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -2264,10 +2672,112 @@
    "name": "Bursa Çinko Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html",
    "description": "Çinko oluk, levha, zamak döküm ve karışık çinko için güncel kilogram fiyatı ve sınıf skalası.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Çinko hurda alımı",
+   "serviceType": "Çinko hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo çinko hurdası 90 TL alınıyor; 4 sınıfın hepsinde fiyat aynı.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-cinko-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 90,
+     "maxPrice": 90,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -2592,10 +3102,112 @@
    "name": "Bursa Demir Hurda Fiyatı",
    "url": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html",
    "description": "Ağır demir, sac, döküm, inşaat demiri ve talaş için güncel kilogram fiyatı, sınıf skalası ve fiyatı etkileyen unsurlar.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Demir hurda alımı",
+   "serviceType": "Demir hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo demir hurdası 13–16 TL arasında alınıyor: DKP hurda 16 TL/kg, bonus demir 16 TL/kg, demir talaşı ve kesinti 13 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-demir-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 13,
+     "maxPrice": 16,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -2706,10 +3318,112 @@
    "name": "Bursa Döküm Hurdası Alan Yer ve Güncel Fiyat",
    "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html",
    "description": "Bursa döküm hurdasını kim alır, radyatör, makine gövdesi ve soba için güncel kilogram fiyatı; dökümü tanıma, sökme ve taşıma.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Döküm (pik) hurda alımı",
+   "serviceType": "Döküm (pik) hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo döküm hurdası 14–15 TL arasında alınıyor: döküm radyatör (dilimli petek) 15 TL/kg, makine gövdesi ve tezgah ayağı 15 TL/kg, döküm soba ve kazan 14 TL/kg, özel mülk döküm kapak ve ızgaralar 14 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-dokum-hurdasi-alan.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 14,
+     "maxPrice": 15,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -4421,10 +5135,112 @@
    "name": "Bursa Kablo Hurdası Alan Yer ve Güncel Fiyat",
    "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html",
    "description": "Kablo hurdasını Bursa'da kim alır, kablo sınıfları ve güncel kilogram fiyatı; satmadan önce hazırlık, şantiye ve işletmeler için düzenli çalışma.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Kablo hurdası alımı",
+   "serviceType": "Kablo hurdası alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo kablo hurdası 90–500 TL arasında alınıyor: kalın enerji kablosu 350–500 TL/kg, ev tesisat kablosu 300–500 TL/kg, ince sinyal ve data kablosu 180–500 TL/kg, alüminyum iletkenli kablo 90–500 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-kablo-hurdasi-alan.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 90,
+     "maxPrice": 500,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -5463,10 +6279,112 @@
    "name": "Bursa Krom (Paslanmaz) Hurda Fiyatları",
    "url": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html",
    "description": "Paslanmaz levha, mutfak ekipmanı, boru ve talaş için güncel kilogram fiyatı; kromu demir ve alüminyumdan ayırma.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html#hizmet",
+   "@type": "Service",
+   "name": "Krom (paslanmaz çelik) hurda alımı",
+   "serviceType": "Krom (paslanmaz çelik) hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo krom (paslanmaz) hurdası 45–55 TL arasında alınıyor: paslanmaz levha ve sac 55 TL/kg, paslanmaz boru ve profil 55 TL/kg, mutfak ekipmanı (tezgah, evye) 50 TL/kg, paslanmaz talaş 45 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-krom-hurda-fiyatlari.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 45,
+     "maxPrice": 55,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -5641,10 +6559,112 @@
    "name": "Bursa Kurşun Hurdası Alan Yer ve Güncel Fiyat",
    "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html",
    "description": "Kurşun hurdasını Bursa'da kim alır, levha, boru ve balans ağırlığı için güncel kilogram fiyatı; kurşunu tanıma, güvenle saklama ve taşıma.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Kurşun hurda alımı",
+   "serviceType": "Kurşun hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo kurşun hurdası 72 TL alınıyor; 4 sınıfın hepsinde fiyat aynı.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-kursun-hurdasi-alan.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 72,
+     "maxPrice": 72,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -6761,10 +7781,112 @@
    "name": "Bursa Sarı (Pirinç) Hurdası Alan Yer ve Güncel Fiyat",
    "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html",
    "description": "Bursa sarı (pirinç) hurdasını kim alır, musluk, vana ve talaş için güncel kilogram fiyatı; sarıyı bakırdan ayırma ve satmadan önce hazırlık.",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "inLanguage": "tr-TR",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "mainEntity": {
+    "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#hizmet"
+   }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Sarı (pirinç) hurda alımı",
+   "serviceType": "Sarı (pirinç) hurda alımı",
+   "description": "28 Kasım 2026 itibarıyla Bursa'da 1 kilo sarı (pirinç) hurdası 280–360 TL arasında alınıyor: kızıl sarı 360 TL/kg, musluk ve batarya 300 TL/kg, pirinç talaşı 280 TL/kg.",
+   "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TRY",
+    "validFrom": "2026-11-28",
+    "url": "https://bursahurdacipolat.com.tr/bursa-sari-hurdasi-alan.html",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 280,
+     "maxPrice": 360,
+     "priceCurrency": "TRY",
+     "unitText": "kg",
+     "description": "Hurdacının alış (ödeme) fiyatı"
+    }
    }
   },
   {
@@ -7652,7 +8774,7 @@
    "@type": "WebPage",
    "name": "Bursa hurda fiyatları",
    "url": "https://bursahurdacipolat.com.tr/fiyat-listesi.html",
-   "dateModified": "2026-11-25",
+   "dateModified": "2026-11-28",
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
@@ -7712,7 +8834,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-26"
+   "dateModified": "2026-11-28"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/hakkimizda.html#aboutpage",
@@ -9345,6 +10467,60 @@
    "inLanguage": "tr-TR"
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/#sayfa",
+   "@type": "WebPage",
+   "url": "https://bursahurdacipolat.com.tr/",
+   "name": "Bursa Hurdacı Polat",
+   "description": "Hurdacı Polat, Bursa Yıldırım'daki bir hurdacıdır: demir, bakır, alüminyum, beyaz eşya ve diğer metal hurdaları kilogram fiyatıyla satın alır ve Bursa'nın tüm ilçeleriyle görüşür. WhatsApp'tan gönderdiğiniz fotoğrafa bakıp hurdanın cinsini ve güncel değerini açıkça söyler. Bursa hurdacı telefonu: 0539 469 51 16.",
+   "inLanguage": "tr-TR",
+   "isPartOf": {
+    "@id": "https://bursahurdacipolat.com.tr/#site"
+   },
+   "about": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "author": {
+    "@id": "https://bursahurdacipolat.com.tr/#yazar"
+   },
+   "publisher": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "breadcrumb": {
+    "@id": "https://bursahurdacipolat.com.tr/#yol"
+   },
+   "dateModified": "2026-11-22"
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/#yazar",
+   "@type": "Person",
+   "name": "Polat",
+   "jobTitle": "Hurdacı Polat'ın sahibi",
+   "worksFor": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "description": "15 yıldır Bursa'da metal hurda alımı yapıyor.",
+   "knowsAbout": [
+    "Demir hurdası",
+    "Bakır hurdası",
+    "Alüminyum hurdası",
+    "Krom (paslanmaz) hurdası",
+    "Beyaz eşya hurdası",
+    "Hurda metal sınıflandırma"
+   ]
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/#yol",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Ana sayfa",
+     "item": "https://bursahurdacipolat.com.tr/"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/#faqpage",
    "@type": "FAQPage",
    "mainEntity": [
@@ -9389,16 +10565,6 @@
      }
     }
    ]
-  },
-  {
-   "@id": "https://bursahurdacipolat.com.tr/#sayfa",
-   "@type": "WebPage",
-   "url": "https://bursahurdacipolat.com.tr/",
-   "dateModified": "2026-11-22",
-   "inLanguage": "tr-TR",
-   "about": {
-    "@id": "https://bursahurdacipolat.com.tr/#isletme"
-   }
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/kablo-hurdasi-soyulmali-mi.html#makale",
@@ -9695,7 +10861,7 @@
    "about": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
-   "dateModified": "2026-11-26"
+   "dateModified": "2026-11-28"
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/makaleler.html#collectionpage",
