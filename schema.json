@@ -2394,6 +2394,91 @@
    }
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-bronz-kalay-nikel-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Bronz, Kalay ve Nikel Hurdası Alan Yer",
+   "serviceType": "Bursa Bronz, Kalay ve Nikel Hurdası Alan Yer",
+   "url": "https://bursahurdacipolat.com.tr/bursa-bronz-kalay-nikel-hurdasi-alan.html",
+   "description": "Bursa'da bronz, kalay ve nikel hurdasını kimin aldığını, bu metalleri nasıl tanıyacağınızı ve satmadan önce nasıl ayıracağınızı anlatıyoruz.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-bronz-kalay-nikel-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
@@ -3612,6 +3697,91 @@
    }
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-elektronik-kart-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Elektronik Kart Hurdası Alan Yer",
+   "serviceType": "Bursa Elektronik Kart Hurdası Alan Yer",
+   "url": "https://bursahurdacipolat.com.tr/bursa-elektronik-kart-hurdasi-alan.html",
+   "description": "Elektronik kart hurdasını Bursa'da kimin aldığını, kartları nasıl sınıflandırdığımızı ve satmadan önce onları güvenle nasıl hazırlayacağınızı anlatıyoruz.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-elektronik-kart-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
@@ -3781,6 +3951,91 @@
    "publisher": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-fabrika-hurdasi-alimi.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Fabrika Hurdası Alımı",
+   "serviceType": "Bursa Fabrika Hurdası Alımı",
+   "url": "https://bursahurdacipolat.com.tr/bursa-fabrika-hurdasi-alimi.html",
+   "description": "Bursa fabrika hurdasını nasıl ayrıştırırsınız; ayrıca düzenli çalışma modeli ve tesis kapatma sökümünde değerlendirme süreci nasıl işler.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-fabrika-hurdasi-alimi.html#breadcrumblist",
@@ -4361,6 +4616,90 @@
    "dateModified": "2026-11-21"
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-hurda-alimi.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Hurda Alımı",
+   "serviceType": "Bursa Hurda Alımı",
+   "url": "https://bursahurdacipolat.com.tr/bursa-hurda-alimi.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-hurda-alimi.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
@@ -4694,6 +5033,90 @@
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
    "dateModified": "2026-11-26"
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa İlçelerinde Hurdacı",
+   "serviceType": "Bursa İlçelerinde Hurdacı",
+   "url": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-ilceleri-hurdaci.html#itemlist",
@@ -5429,6 +5852,91 @@
    }
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kagit-karton-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Kâğıt ve Karton Hurdası Alan Yer",
+   "serviceType": "Bursa Kâğıt ve Karton Hurdası Alan Yer",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kagit-karton-hurdasi-alan.html",
+   "description": "Bursa kâğıt ve karton hurdasını kimin aldığını, değerini neyin belirlediğini ve satmadan önce neler yapacağınızı anlatıyoruz.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-kagit-karton-hurdasi-alan.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
@@ -5727,6 +6235,91 @@
    "publisher": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-karbur-vidia-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Karbür (Vidia) Hurdası Alan Yer",
+   "serviceType": "Bursa Karbür (Vidia) Hurdası Alan Yer",
+   "url": "https://bursahurdacipolat.com.tr/bursa-karbur-vidia-hurdasi-alan.html",
+   "description": "Karbür (vidia) hurdasını Bursa'da kimin aldığını, karbür ucu nasıl tanıyacağınızı ve özellikle HSS'den nasıl ayıracağınızı anlatıyoruz.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-karbur-vidia-hurdasi-alan.html#breadcrumblist",
@@ -6146,6 +6739,91 @@
    "publisher": {
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    }
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-kompozit-panel-hurdasi-alan.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Kompozit Panel Hurdası Alan Yer",
+   "serviceType": "Bursa Kompozit Panel Hurdası Alan Yer",
+   "url": "https://bursahurdacipolat.com.tr/bursa-kompozit-panel-hurdasi-alan.html",
+   "description": "Bursa kompozit panel hurdasını kimin aldığını, değerini neyin belirlediğini ve satmadan önce neler yapacağınızı anlatıyoruz.",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-kompozit-panel-hurdasi-alan.html#breadcrumblist",
@@ -7499,6 +8177,90 @@
    "dateModified": "2026-11-09"
   },
   {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-osb-hurda-alimi.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa OSB Hurda Alımı",
+   "serviceType": "Bursa OSB Hurda Alımı",
+   "url": "https://bursahurdacipolat.com.tr/bursa-osb-hurda-alimi.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
+  },
+  {
    "@id": "https://bursahurdacipolat.com.tr/bursa-osb-hurda-alimi.html#breadcrumblist",
    "@type": "BreadcrumbList",
    "itemListElement": [
@@ -7702,6 +8464,90 @@
     "@id": "https://bursahurdacipolat.com.tr/#isletme"
    },
    "dateModified": "2026-11-21"
+  },
+  {
+   "@id": "https://bursahurdacipolat.com.tr/bursa-sanayi-hurdaci.html#hizmet",
+   "@type": "Service",
+   "name": "Bursa Sanayi Hurdacı",
+   "serviceType": "Bursa Sanayi Hurdacı",
+   "url": "https://bursahurdacipolat.com.tr/bursa-sanayi-hurdaci.html",
+   "provider": {
+    "@id": "https://bursahurdacipolat.com.tr/#isletme"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Bursa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yıldırım"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Osmangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Nilüfer"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gürsu"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Kestel"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mudanya"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Gemlik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İnegöl"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhangazi"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "İznik"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Yenişehir"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Mustafakemalpaşa"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Karacabey"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Orhaneli"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Keles"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Harmancık"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Büyükorhan"
+    }
+   ]
   },
   {
    "@id": "https://bursahurdacipolat.com.tr/bursa-sanayi-hurdaci.html#breadcrumblist",
